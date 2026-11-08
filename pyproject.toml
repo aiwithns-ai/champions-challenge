@@ -1,0 +1,11 @@
+[project]
+name = "champions-challenge"
+version = "0.1.0"
+description = "Champions Challenge engagement and rewards analysis"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pandas>=2.2",
+    "numpy>=1.26",
+    "openpyxl>=3.1",
+]

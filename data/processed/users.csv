@@ -1,0 +1,327 @@
+user_id,batch_week,challenge_start_date,state,gender,branch,grad_year,pre_hours,pre_lessons,pre_active_weeks,pre_active_days,pre_goals,challenge_hours,challenge_lessons,active_weeks,active_days,weekly_goals,goal_streak,last_active_week,active_in_final_week,goals_first_2_weeks,first_2_weeks,target_achieved,rank,target_reached_on,reward,reward_type,hours_change,hours_change_pct,avg_weekly_hours,pre_avg_weekly_hours,engagement_segment,outcome_group
+user_001,2022-06-27,2022-09-12,Andhra Pradesh,Female,Tech,2023,28.13,42,5,18,3,107.25,137,7,34,6,6,8,1,0,0 of 2 goals,1,19,2022-10-25,Hamper,Target hamper,79.12,2.8129,13.41,3.52,Activated,Achiever
+user_002,2022-06-27,2022-09-12,Tamil Nadu,Female,Tech,2022,38.17,53,7,28,6,67.96,79,8,42,8,8,8,1,2,2 of 2 goals,1,84,2022-10-11,Hamper,Target hamper,29.78,0.7801,8.49,4.77,Consistent high,Achiever
+user_003,2022-06-06,2022-09-12,Kerala,Female,Non-Tech,2022,31.21,50,8,28,4,7.42,9,5,6,0,0,7,0,0,0 of 2 goals,0,,,No reward,None,-23.79,-0.7623,0.93,3.9,Consistently low,Low (0-1 goal)
+user_004,2022-06-27,2022-09-12,Kerala,Male,Non-Tech,2023,22.99,49,8,20,2,20.57,33,7,19,2,1,8,1,0,0 of 2 goals,0,,,T-shirt,Consolation goodie,-2.42,-0.1054,2.57,2.87,Consistently low,Partial (2-3 goals)
+user_005,2022-06-06,2022-09-12,Andhra Pradesh,Female,Non-Tech,2023,115.0,159,8,41,7,134.76,196,8,49,7,5,8,1,2,2 of 2 goals,1,7,2022-10-23,Hamper,Target hamper,19.76,0.1718,16.84,14.38,Consistent high,Achiever
+user_006,2022-06-27,2022-09-12,Tamil Nadu,Male,Non-Tech,2022,27.9,32,6,19,2,35.04,56,7,26,2,2,8,1,2,2 of 2 goals,0,,,T-shirt,Consolation goodie,7.15,0.2561,4.38,3.49,Consistently low,Partial (2-3 goals)
+user_007,2022-06-27,2022-09-12,Karnataka,Male,Non-Tech,2023,35.36,48,8,22,3,42.36,61,8,38,4,4,8,1,1,1 of 2 goals,0,,,Backpack,Consolation goodie,6.99,0.1978,5.29,4.42,Activated,Near miss
+user_008,2022-06-13,2022-09-12,Andhra Pradesh,Male,Non-Tech,2023,11.85,21,2,8,1,52.5,72,7,28,5,4,8,1,1,1 of 2 goals,1,133,2022-11-03,Hamper,Target hamper,40.65,3.4288,6.56,1.48,Activated,Achiever
+user_009,2022-06-13,2022-09-12,Karnataka,Male,Tech,2023,53.5,71,6,31,4,62.67,78,8,44,7,7,8,1,2,2 of 2 goals,1,103,2022-10-12,Hamper,Target hamper,9.17,0.1714,7.83,6.69,Consistent high,Achiever
+user_010,2022-06-13,2022-09-12,Tamil Nadu,Female,Non-Tech,2023,29.68,37,8,35,4,64.48,114,8,51,8,8,8,1,2,2 of 2 goals,1,95,2022-10-13,Hamper,Target hamper,34.8,1.1726,8.06,3.71,Activated,Achiever
+user_011,2022-06-27,2022-09-12,Tamil Nadu,Female,Tech,2022,40.33,50,8,35,5,62.05,79,8,43,6,5,8,1,2,2 of 2 goals,1,104,2022-10-12,Hamper,Target hamper,21.72,0.5386,7.76,5.04,Consistent high,Achiever
+user_012,2022-06-27,2022-09-12,Kerala,Female,Tech,2023,20.93,28,5,17,3,20.03,38,7,18,3,2,8,1,1,1 of 2 goals,0,,,Sweatshirt,Consolation goodie,-0.9,-0.0428,2.5,2.62,Consistently low,Partial (2-3 goals)
+user_014,2022-06-27,2022-09-12,Andhra Pradesh,Female,Non-Tech,2022,3.73,8,4,4,0,0.67,3,2,2,0,0,6,0,0,0 of 2 goals,0,,,No reward,None,-3.06,-0.8206,0.08,0.47,Consistently low,Low (0-1 goal)
+user_015,2022-06-27,2022-09-12,Karnataka,Female,Tech,2023,27.95,40,4,13,2,19.44,29,8,20,1,1,8,1,0,0 of 2 goals,0,,,Water Bottle,Consolation goodie,-8.51,-0.3046,2.43,3.49,Consistently low,Low (0-1 goal)
+user_016,2022-06-27,2022-09-12,Telangana,Female,Non-Tech,2023,14.87,25,5,12,2,30.63,51,8,27,4,3,8,1,2,2 of 2 goals,0,,,Backpack,Consolation goodie,15.76,1.06,3.83,1.86,Consistently low,Near miss
+user_017,2022-06-13,2022-09-12,Tamil Nadu,Female,Non-Tech,2022,5.98,12,4,7,1,75.32,76,8,36,4,3,8,1,0,0 of 2 goals,0,,,Backpack,Consolation goodie,69.35,11.6065,9.42,0.75,Activated,Near miss
+user_018,2022-06-13,2022-09-12,Tamil Nadu,Male,Non-Tech,2023,3.75,12,1,1,1,20.64,39,6,16,3,2,8,1,0,0 of 2 goals,0,,,Sweatshirt,Consolation goodie,16.9,4.5082,2.58,0.47,Consistently low,Partial (2-3 goals)
+user_019,2022-06-13,2022-09-12,Karnataka,Male,Non-Tech,2023,116.0,158,8,45,8,117.46,143,8,42,7,6,8,1,1,1 of 2 goals,1,13,2022-10-19,Hamper,Target hamper,1.46,0.0126,14.68,14.5,Consistent high,Achiever
+user_020,2022-06-13,2022-09-12,Andhra Pradesh,Female,Tech,2023,1.17,2,2,2,0,10.33,24,5,12,1,1,6,0,0,0 of 2 goals,0,,,Water Bottle,Consolation goodie,9.17,7.8571,1.29,0.15,Consistently low,Low (0-1 goal)
+user_021,2022-06-13,2022-09-12,Karnataka,Male,Non-Tech,2022,39.27,60,7,28,5,19.56,39,5,21,3,3,8,1,2,2 of 2 goals,0,,,Sweatshirt,Consolation goodie,-19.71,-0.5019,2.45,4.91,Dropped off,Partial (2-3 goals)
+user_022,2022-06-27,2022-09-12,Telangana,Female,Non-Tech,2023,66.04,114,8,32,4,20.88,48,8,26,3,3,8,1,2,2 of 2 goals,0,,,Sweatshirt,Consolation goodie,-45.16,-0.6838,2.61,8.26,Dropped off,Partial (2-3 goals)
+user_023,2022-06-13,2022-09-12,Tamil Nadu,Male,Non-Tech,2022,0.08,0,1,1,0,26.18,47,6,23,3,2,8,1,2,2 of 2 goals,0,,,Sweatshirt,Consolation goodie,26.11,333.2766,3.27,0.01,Consistently low,Partial (2-3 goals)
+user_024,2022-06-27,2022-09-12,Karnataka,Male,Non-Tech,2023,19.53,26,3,12,3,75.84,102,8,41,8,8,8,1,2,2 of 2 goals,1,66,2022-10-14,Hamper,Target hamper,56.31,2.8827,9.48,2.44,Activated,Achiever
+user_025,2022-06-27,2022-09-12,Kerala,Female,Non-Tech,2022,30.75,49,8,31,4,22.85,46,7,27,2,2,8,1,2,2 of 2 goals,0,,,T-shirt,Consolation goodie,-7.9,-0.257,2.86,3.84,Consistently low,Partial (2-3 goals)
+user_026,2022-06-27,2022-09-12,Kerala,Male,Tech,2022,32.82,57,6,21,5,19.03,35,7,22,3,3,8,1,0,0 of 2 goals,0,,,Sweatshirt,Consolation goodie,-13.79,-0.4202,2.38,4.1,Consistently low,Partial (2-3 goals)
+user_027,2022-06-27,2022-09-12,Andhra Pradesh,Female,Tech,2023,3.5,7,5,7,0,4.64,4,3,7,0,0,8,1,0,0 of 2 goals,0,,,No reward,None,1.14,0.327,0.58,0.44,Consistently low,Low (0-1 goal)
+user_028,2022-06-27,2022-09-12,Tamil Nadu,Male,Non-Tech,2023,0.0,0,0,0,0,0.0,0,0,0,0,0,,0,0,0 of 2 goals,0,,,No reward,None,0.0,,0.0,0.0,Consistently low,Low (0-1 goal)
+user_029,2022-06-13,2022-09-12,Andhra Pradesh,Male,Tech,2022,8.21,15,5,11,1,0.0,0,0,0,0,0,,0,0,0 of 2 goals,0,,,No reward,None,-8.21,-1.0,0.0,1.03,Consistently low,Low (0-1 goal)
+user_030,2022-06-13,2022-09-12,Tamil Nadu,Female,Non-Tech,2023,17.53,23,6,15,2,114.38,160,7,31,6,5,8,1,1,1 of 2 goals,1,14,2022-10-26,Hamper,Target hamper,96.85,5.5239,14.3,2.19,Activated,Achiever
+user_031,2022-06-27,2022-09-12,Telangana,Male,Tech,2023,62.18,87,8,39,8,42.03,44,8,32,4,4,8,1,2,2 of 2 goals,0,,,Backpack,Consolation goodie,-20.15,-0.324,5.25,7.77,Consistent high,Near miss
+user_032,2022-06-13,2022-09-12,Karnataka,Female,Non-Tech,2023,0.83,1,1,1,0,17.58,30,3,14,2,2,8,1,0,0 of 2 goals,0,,,T-shirt,Consolation goodie,16.75,20.102,2.2,0.1,Consistently low,Partial (2-3 goals)
+user_033,2022-06-27,2022-09-12,Tamil Nadu,Male,Tech,2023,43.43,59,8,26,5,80.0,111,8,38,7,6,8,1,2,2 of 2 goals,1,50,2022-10-14,Hamper,Target hamper,36.57,0.8421,10.0,5.43,Consistent high,Achiever
+user_034,2022-06-27,2022-09-12,Telangana,Male,Tech,2022,59.55,90,6,20,3,83.65,107,8,36,6,4,8,1,2,2 of 2 goals,1,44,2022-10-19,Hamper,Target hamper,24.1,0.4047,10.46,7.44,Consistent high,Achiever
+user_035,2022-06-27,2022-09-12,Andhra Pradesh,Female,Tech,2023,25.18,38,5,22,4,50.72,68,7,32,5,3,8,1,1,1 of 2 goals,1,139,2022-11-02,Hamper,Target hamper,25.54,1.0141,6.34,3.15,Activated,Achiever
+user_036,2022-06-27,2022-09-12,Tamil Nadu,Female,Tech,2023,43.3,65,5,17,4,30.33,40,8,19,2,1,8,1,1,1 of 2 goals,0,,,T-shirt,Consolation goodie,-12.96,-0.2994,3.79,5.41,Dropped off,Partial (2-3 goals)
+user_037,2022-06-13,2022-09-12,Karnataka,Male,Tech,2022,19.13,24,5,11,2,86.36,122,7,33,6,6,7,0,2,2 of 2 goals,1,40,2022-10-13,Hamper,Target hamper,67.23,3.5148,10.8,2.39,Activated,Achiever
+user_038,2022-06-13,2022-09-12,Andhra Pradesh,Male,Tech,2022,47.57,66,8,30,6,76.23,105,8,33,5,3,8,1,1,1 of 2 goals,1,64,2022-11-03,Hamper,Target hamper,28.66,0.6024,9.53,5.95,Consistent high,Achiever
+user_039,2022-06-27,2022-09-12,Telangana,Female,Non-Tech,2022,23.93,27,2,8,2,45.19,62,7,27,4,3,7,0,2,2 of 2 goals,0,,,Backpack,Consolation goodie,21.27,0.8887,5.65,2.99,Activated,Near miss
+user_040,2022-06-27,2022-09-12,Andhra Pradesh,Male,Non-Tech,2023,1.33,2,1,1,0,23.02,42,3,13,3,2,5,0,2,2 of 2 goals,0,,,Sweatshirt,Consolation goodie,21.69,16.2661,2.88,0.17,Consistently low,Partial (2-3 goals)
+user_041,2022-06-27,2022-09-12,Kerala,Male,Non-Tech,2022,9.14,19,5,11,0,0.0,0,0,0,0,0,,0,0,0 of 2 goals,0,,,No reward,None,-9.14,-1.0,0.0,1.14,Consistently low,Low (0-1 goal)
+user_042,2022-06-13,2022-09-12,Andhra Pradesh,Female,Tech,2023,35.71,46,8,18,3,38.98,62,7,26,5,3,7,0,2,2 of 2 goals,1,165,2022-10-23,Hamper,Target hamper,3.27,0.0917,4.87,4.46,Activated,Achiever
+user_043,2022-06-27,2022-09-12,Kerala,Male,Non-Tech,2023,20.2,33,6,18,2,11.05,15,5,10,1,1,8,1,0,0 of 2 goals,0,,,Water Bottle,Consolation goodie,-9.15,-0.453,1.38,2.53,Consistently low,Low (0-1 goal)
+user_044,2022-06-13,2022-09-12,Andhra Pradesh,Female,Tech,2023,52.86,86,8,40,6,48.01,60,8,30,5,5,8,1,2,2 of 2 goals,1,149,2022-10-12,Hamper,Target hamper,-4.85,-0.0917,6.0,6.61,Consistent high,Achiever
+user_045,2022-06-13,2022-09-12,Kerala,Male,Non-Tech,2023,46.13,60,7,28,5,50.96,60,8,30,6,3,8,1,2,2 of 2 goals,1,137,2022-10-20,Hamper,Target hamper,4.83,0.1047,6.37,5.77,Consistent high,Achiever
+user_046,2022-06-13,2022-09-12,Andhra Pradesh,Male,Non-Tech,2022,102.33,205,8,40,7,53.33,81,8,41,8,8,8,1,2,2 of 2 goals,1,131,2022-10-15,Hamper,Target hamper,-49.01,-0.4789,6.67,12.79,Consistent high,Achiever
+user_047,2022-06-13,2022-09-12,Telangana,Male,Tech,2022,37.12,63,6,14,4,1.27,2,2,2,0,0,4,0,0,0 of 2 goals,0,,,No reward,None,-35.85,-0.9659,0.16,4.64,Consistently low,Low (0-1 goal)
+user_048,2022-06-13,2022-09-12,Tamil Nadu,Male,Non-Tech,2022,43.09,60,7,27,3,42.99,68,8,36,6,3,8,1,2,2 of 2 goals,1,160,2022-10-27,Hamper,Target hamper,-0.1,-0.0024,5.37,5.39,Consistent high,Achiever
+user_049,2022-06-13,2022-09-12,Telangana,Female,Tech,2023,154.23,361,8,43,7,63.38,82,7,43,6,6,7,0,2,2 of 2 goals,1,99,2022-10-13,Hamper,Target hamper,-90.85,-0.589,7.92,19.28,Consistent high,Achiever
+user_050,2022-06-13,2022-09-12,Kerala,Male,Tech,2023,0.07,0,1,1,0,0.85,0,2,2,0,0,7,0,0,0 of 2 goals,0,,,No reward,None,0.78,11.75,0.11,0.01,Consistently low,Low (0-1 goal)
+user_051,2022-06-13,2022-09-12,Karnataka,Male,Non-Tech,2023,16.76,22,5,7,2,71.05,106,7,23,4,2,8,1,1,1 of 2 goals,0,,,Backpack,Consolation goodie,54.29,3.2386,8.88,2.1,Activated,Near miss
+user_052,2022-06-13,2022-09-12,Karnataka,Female,Non-Tech,2022,8.62,15,3,3,1,0.0,0,0,0,0,0,,0,0,0 of 2 goals,0,,,No reward,None,-8.62,-1.0,0.0,1.08,Consistently low,Low (0-1 goal)
+user_053,2022-06-27,2022-09-12,Telangana,Male,Non-Tech,2023,84.91,119,8,35,7,133.72,176,8,50,8,8,8,1,2,2 of 2 goals,1,8,2022-10-12,Hamper,Target hamper,48.81,0.5748,16.72,10.61,Consistent high,Achiever
+user_054,2022-06-27,2022-09-12,Andhra Pradesh,Female,Non-Tech,2022,45.25,54,8,33,7,54.42,71,8,33,7,4,8,1,2,2 of 2 goals,1,130,2022-10-22,Hamper,Target hamper,9.17,0.2027,6.8,5.66,Consistent high,Achiever
+user_055,2022-06-13,2022-09-12,Kerala,Male,Non-Tech,2023,49.5,70,8,36,8,57.72,74,7,31,5,2,8,1,2,2 of 2 goals,1,121,2022-11-01,Hamper,Target hamper,8.22,0.166,7.21,6.19,Consistent high,Achiever
+user_056,2022-06-13,2022-09-12,Telangana,Female,Tech,2022,45.8,65,7,21,6,64.2,92,6,19,4,3,7,0,1,1 of 2 goals,0,,,Backpack,Consolation goodie,18.4,0.4017,8.02,5.72,Consistent high,Near miss
+user_057,2022-06-13,2022-09-12,Kerala,Male,Tech,2023,39.67,50,8,26,4,20.36,35,5,11,2,1,6,0,1,1 of 2 goals,0,,,T-shirt,Consolation goodie,-19.3,-0.4867,2.55,4.96,Dropped off,Partial (2-3 goals)
+user_058,2022-06-27,2022-09-12,Telangana,Male,Tech,2022,45.26,68,7,29,5,58.58,93,8,44,8,8,8,1,2,2 of 2 goals,1,116,2022-10-13,Hamper,Target hamper,13.31,0.2942,7.32,5.66,Consistent high,Achiever
+user_059,2022-06-27,2022-09-12,Tamil Nadu,Female,Non-Tech,2022,48.48,70,7,34,5,57.53,77,8,36,8,8,8,1,2,2 of 2 goals,1,122,2022-10-16,Hamper,Target hamper,9.05,0.1867,7.19,6.06,Consistent high,Achiever
+user_060,2022-06-27,2022-09-12,Karnataka,Male,Tech,2022,40.52,46,7,32,3,43.82,57,8,29,5,3,8,1,1,1 of 2 goals,1,157,2022-10-28,Hamper,Target hamper,3.29,0.0812,5.48,5.07,Consistent high,Achiever
+user_061,2022-06-13,2022-09-12,Karnataka,Female,Non-Tech,2022,53.36,71,8,38,8,63.01,88,8,43,7,6,8,1,2,2 of 2 goals,1,101,2022-10-14,Hamper,Target hamper,9.65,0.1808,7.88,6.67,Consistent high,Achiever
+user_062,2022-06-13,2022-09-12,Kerala,Male,Tech,2023,109.5,165,8,51,8,105.92,123,8,51,8,8,8,1,2,2 of 2 goals,1,21,2022-10-12,Hamper,Target hamper,-3.59,-0.0328,13.24,13.69,Consistent high,Achiever
+user_063,2022-06-27,2022-09-12,Karnataka,Male,Non-Tech,2022,0.0,0,0,0,0,4.08,7,4,4,1,1,5,0,0,0 of 2 goals,0,,,Water Bottle,Consolation goodie,4.08,,0.51,0.0,Consistently low,Low (0-1 goal)
+user_064,2022-06-27,2022-09-12,Tamil Nadu,Female,Tech,2023,106.26,181,8,43,7,130.42,156,8,40,7,7,8,1,2,2 of 2 goals,1,9,2022-10-13,Hamper,Target hamper,24.16,0.2273,16.3,13.28,Consistent high,Achiever
+user_065,2022-06-13,2022-09-12,Kerala,Male,Non-Tech,2022,57.24,77,8,34,7,29.03,44,5,20,4,4,6,0,2,2 of 2 goals,0,,,Backpack,Consolation goodie,-28.21,-0.4928,3.63,7.16,Dropped off,Near miss
+user_066,2022-06-27,2022-09-12,Andhra Pradesh,Male,Tech,2022,50.31,62,8,38,8,87.48,113,8,39,8,8,8,1,2,2 of 2 goals,1,39,2022-10-12,Hamper,Target hamper,37.16,0.7386,10.93,6.29,Consistent high,Achiever
+user_067,2022-06-27,2022-09-12,Telangana,Female,Non-Tech,2022,85.11,124,7,32,6,121.05,165,8,42,8,8,8,1,2,2 of 2 goals,1,12,2022-10-13,Hamper,Target hamper,35.94,0.4223,15.13,10.64,Consistent high,Achiever
+user_068,2022-06-13,2022-09-12,Telangana,Male,Tech,2022,80.93,138,8,40,7,123.65,146,8,51,8,8,8,1,2,2 of 2 goals,1,11,2022-10-11,Hamper,Target hamper,42.71,0.5278,15.46,10.12,Consistent high,Achiever
+user_069,2022-06-13,2022-09-12,Kerala,Male,Non-Tech,2023,72.47,94,7,31,5,92.1,113,8,38,7,6,8,1,1,1 of 2 goals,1,31,2022-10-20,Hamper,Target hamper,19.62,0.2707,11.51,9.06,Consistent high,Achiever
+user_070,2022-06-27,2022-09-12,Karnataka,Female,Non-Tech,2022,49.93,60,8,37,7,50.83,68,7,31,6,4,8,1,2,2 of 2 goals,1,138,2022-10-29,Hamper,Target hamper,0.91,0.0181,6.35,6.24,Consistent high,Achiever
+user_071,2022-06-13,2022-09-12,Andhra Pradesh,Male,Non-Tech,2023,28.99,50,8,43,5,26.33,48,7,28,3,3,8,1,1,1 of 2 goals,0,,,Sweatshirt,Consolation goodie,-2.66,-0.0917,3.29,3.62,Consistently low,Partial (2-3 goals)
+user_072,2022-06-13,2022-09-12,Andhra Pradesh,Female,Non-Tech,2023,0.0,0,0,0,0,1.0,1,1,1,0,0,6,0,0,0 of 2 goals,0,,,No reward,None,1.0,,0.13,0.0,Consistently low,Low (0-1 goal)
+user_073,2022-06-27,2022-09-12,Karnataka,Female,Tech,2022,43.6,78,7,17,5,10.71,21,5,7,1,1,5,0,1,1 of 2 goals,0,,,Water Bottle,Consolation goodie,-32.89,-0.7544,1.34,5.45,Dropped off,Low (0-1 goal)
+user_074,2022-06-13,2022-09-12,Karnataka,Female,Tech,2022,23.23,32,7,19,1,31.05,37,7,12,3,1,8,1,1,1 of 2 goals,0,,,Sweatshirt,Consolation goodie,7.82,0.3365,3.88,2.9,Consistently low,Partial (2-3 goals)
+user_075,2022-06-13,2022-09-12,Kerala,Male,Tech,2022,55.15,82,6,27,4,44.24,60,8,32,5,3,8,1,2,2 of 2 goals,1,154,2022-10-30,Hamper,Target hamper,-10.91,-0.1978,5.53,6.89,Consistent high,Achiever
+user_076,2022-06-27,2022-09-12,Kerala,Male,Non-Tech,2022,48.93,66,8,40,7,58.18,71,8,34,6,6,8,1,2,2 of 2 goals,1,119,2022-10-11,Hamper,Target hamper,9.25,0.189,7.27,6.12,Consistent high,Achiever
+user_077,2022-06-13,2022-09-12,Telangana,Male,Tech,2022,26.18,36,8,24,3,14.29,26,6,16,1,1,8,1,1,1 of 2 goals,0,,,Water Bottle,Consolation goodie,-11.89,-0.4541,1.79,3.27,Consistently low,Low (0-1 goal)
+user_078,2022-06-27,2022-09-12,Andhra Pradesh,Male,Non-Tech,2022,18.33,29,2,9,1,40.62,73,6,28,4,4,6,0,2,2 of 2 goals,0,,,Backpack,Consolation goodie,22.29,1.2155,5.08,2.29,Activated,Near miss
+user_079,2022-06-13,2022-09-12,Telangana,Female,Tech,2023,1.18,2,1,2,0,42.28,74,6,24,3,3,8,1,0,0 of 2 goals,0,,,Sweatshirt,Consolation goodie,41.1,34.7324,5.29,0.15,Activated,Partial (2-3 goals)
+user_080,2022-06-27,2022-09-12,Andhra Pradesh,Male,Non-Tech,2022,21.19,34,3,11,1,50.43,73,8,34,8,8,8,1,2,2 of 2 goals,1,142,2022-10-16,Hamper,Target hamper,29.24,1.3799,6.3,2.65,Activated,Achiever
+user_081,2022-06-27,2022-09-12,Tamil Nadu,Male,Tech,2023,61.42,99,8,36,8,50.55,57,7,29,6,3,8,1,2,2 of 2 goals,1,141,2022-10-19,Hamper,Target hamper,-10.87,-0.177,6.32,7.68,Consistent high,Achiever
+user_082,2022-06-13,2022-09-12,Tamil Nadu,Female,Tech,2022,32.31,43,7,27,4,24.06,42,6,18,2,2,6,0,2,2 of 2 goals,0,,,T-shirt,Consolation goodie,-8.25,-0.2554,3.01,4.04,Consistently low,Partial (2-3 goals)
+user_083,2022-06-27,2022-09-12,Karnataka,Male,Non-Tech,2023,38.45,64,7,25,5,104.38,137,8,44,8,8,8,1,2,2 of 2 goals,1,23,2022-10-11,Hamper,Target hamper,65.93,1.7147,13.05,4.81,Consistent high,Achiever
+user_084,2022-06-27,2022-09-12,Tamil Nadu,Female,Non-Tech,2023,49.62,68,8,45,8,59.55,74,8,46,7,4,8,1,2,2 of 2 goals,1,112,2022-10-20,Hamper,Target hamper,9.93,0.2001,7.44,6.2,Consistent high,Achiever
+user_085,2022-06-13,2022-09-12,Andhra Pradesh,Male,Tech,2023,33.64,36,7,24,4,58.32,82,8,39,6,6,8,1,2,2 of 2 goals,1,117,2022-10-15,Hamper,Target hamper,24.68,0.7339,7.29,4.2,Activated,Achiever
+user_086,2022-06-13,2022-09-12,Kerala,Male,Tech,2023,4.13,10,4,8,0,48.64,65,6,26,5,3,8,1,0,0 of 2 goals,1,148,2022-11-04,Hamper,Target hamper,44.51,10.7662,6.08,0.52,Activated,Achiever
+user_087,2022-06-27,2022-09-12,Telangana,Female,Non-Tech,2023,46.29,63,6,27,5,48.72,74,7,27,6,6,7,0,2,2 of 2 goals,1,147,2022-10-13,Hamper,Target hamper,2.43,0.0524,6.09,5.79,Consistent high,Achiever
+user_088,2022-06-27,2022-09-12,Andhra Pradesh,Male,Non-Tech,2022,43.32,87,6,13,2,32.22,45,7,11,3,1,7,0,1,1 of 2 goals,0,,,Sweatshirt,Consolation goodie,-11.1,-0.2562,4.03,5.42,Dropped off,Partial (2-3 goals)
+user_089,2022-06-27,2022-09-12,Telangana,Female,Non-Tech,2023,43.38,55,7,26,6,59.92,76,8,33,5,2,8,1,2,2 of 2 goals,1,110,2022-11-06,Hamper,Target hamper,16.54,0.3813,7.49,5.42,Consistent high,Achiever
+user_090,2022-06-13,2022-09-12,Tamil Nadu,Male,Tech,2022,29.97,38,7,26,4,44.57,64,8,39,4,3,8,1,2,2 of 2 goals,0,,,Backpack,Consolation goodie,14.59,0.4869,5.57,3.75,Activated,Near miss
+user_091,2022-06-13,2022-09-12,Tamil Nadu,Male,Non-Tech,2022,0.0,0,0,0,0,0.25,2,1,1,0,0,3,0,0,0 of 2 goals,0,,,No reward,None,0.25,,0.03,0.0,Consistently low,Low (0-1 goal)
+user_092,2022-06-13,2022-09-12,Tamil Nadu,Female,Non-Tech,2023,50.25,76,7,38,4,34.17,53,8,26,4,1,8,1,1,1 of 2 goals,0,,,Backpack,Consolation goodie,-16.07,-0.3199,4.27,6.28,Dropped off,Near miss
+user_093,2022-06-27,2022-09-12,Andhra Pradesh,Female,Tech,2023,51.91,68,7,32,5,60.41,81,8,44,8,8,8,1,2,2 of 2 goals,1,109,2022-10-14,Hamper,Target hamper,8.5,0.1637,7.55,6.49,Consistent high,Achiever
+user_094,2022-06-13,2022-09-12,Karnataka,Female,Non-Tech,2022,43.58,51,8,31,6,70.78,96,8,40,8,8,8,1,2,2 of 2 goals,1,81,2022-10-12,Hamper,Target hamper,27.2,0.6242,8.85,5.45,Consistent high,Achiever
+user_095,2022-06-27,2022-09-12,Telangana,Male,Non-Tech,2022,27.1,40,4,16,2,41.05,57,7,25,3,1,8,1,1,1 of 2 goals,0,,,Sweatshirt,Consolation goodie,13.95,0.5146,5.13,3.39,Activated,Partial (2-3 goals)
+user_096,2022-06-27,2022-09-12,Kerala,Male,Non-Tech,2022,35.97,52,8,29,4,55.99,81,8,40,7,6,8,1,2,2 of 2 goals,1,125,2022-10-15,Hamper,Target hamper,20.01,0.5564,7.0,4.5,Activated,Achiever
+user_097,2022-06-27,2022-09-12,Kerala,Male,Non-Tech,2022,51.09,64,8,33,6,55.58,72,8,47,7,6,8,1,2,2 of 2 goals,1,126,2022-10-16,Hamper,Target hamper,4.49,0.0878,6.95,6.39,Consistent high,Achiever
+user_098,2022-06-27,2022-09-12,Tamil Nadu,Male,Tech,2023,13.29,24,6,14,2,32.51,50,7,28,3,3,8,1,2,2 of 2 goals,0,,,Sweatshirt,Consolation goodie,19.22,1.4469,4.06,1.66,Consistently low,Partial (2-3 goals)
+user_099,2022-06-13,2022-09-12,Tamil Nadu,Male,Non-Tech,2022,0.0,0,0,0,0,1.19,2,3,4,0,0,5,0,0,0 of 2 goals,0,,,No reward,None,1.19,,0.15,0.0,Consistently low,Low (0-1 goal)
+user_100,2022-06-27,2022-09-12,Karnataka,Male,Tech,2022,26.25,40,7,29,5,55.49,81,8,50,7,6,8,1,2,2 of 2 goals,1,127,2022-10-14,Hamper,Target hamper,29.24,1.1141,6.94,3.28,Activated,Achiever
+user_101,2022-06-13,2022-09-12,Tamil Nadu,Male,Non-Tech,2023,40.48,53,6,28,5,44.04,61,8,36,6,4,8,1,2,2 of 2 goals,1,156,2022-10-20,Hamper,Target hamper,3.55,0.0878,5.5,5.06,Consistent high,Achiever
+user_102,2022-06-27,2022-09-12,Kerala,Male,Non-Tech,2022,29.55,39,7,20,4,23.28,44,8,22,3,3,8,1,1,1 of 2 goals,0,,,Sweatshirt,Consolation goodie,-6.26,-0.212,2.91,3.69,Consistently low,Partial (2-3 goals)
+user_103,2022-06-27,2022-09-12,Karnataka,Female,Tech,2022,47.2,64,4,21,4,59.47,68,8,26,6,5,8,1,1,1 of 2 goals,1,113,2022-10-26,Hamper,Target hamper,12.27,0.26,7.43,5.9,Consistent high,Achiever
+user_104,2022-06-27,2022-09-12,Andhra Pradesh,Male,Non-Tech,2023,30.11,36,6,24,5,74.06,101,8,39,8,8,8,1,2,2 of 2 goals,1,72,2022-10-15,Hamper,Target hamper,43.95,1.4598,9.26,3.76,Activated,Achiever
+user_105,2022-06-27,2022-09-12,Andhra Pradesh,Female,Tech,2022,23.73,37,8,27,4,29.06,43,7,28,3,2,8,1,1,1 of 2 goals,0,,,Sweatshirt,Consolation goodie,5.33,0.2244,3.63,2.97,Consistently low,Partial (2-3 goals)
+user_106,2022-06-27,2022-09-12,Karnataka,Male,Tech,2023,29.11,42,7,20,4,54.96,70,6,33,4,4,6,0,2,2 of 2 goals,0,,,Backpack,Consolation goodie,25.85,0.888,6.87,3.64,Activated,Near miss
+user_107,2022-06-27,2022-09-12,Karnataka,Male,Tech,2023,9.56,9,2,5,1,71.82,106,8,47,8,8,8,1,2,2 of 2 goals,1,78,2022-10-14,Hamper,Target hamper,62.26,6.5143,8.98,1.19,Activated,Achiever
+user_108,2022-06-13,2022-09-12,Andhra Pradesh,Female,Non-Tech,2023,2.07,3,2,4,0,27.18,33,5,19,3,1,8,1,0,0 of 2 goals,0,,,Sweatshirt,Consolation goodie,25.11,12.1057,3.4,0.26,Consistently low,Partial (2-3 goals)
+user_109,2022-06-06,2022-09-12,Karnataka,Female,Non-Tech,2023,11.93,22,6,19,0,23.15,35,7,16,3,2,8,1,0,0 of 2 goals,0,,,Sweatshirt,Consolation goodie,11.22,0.9406,2.89,1.49,Consistently low,Partial (2-3 goals)
+user_110,2022-06-27,2022-09-12,Telangana,Female,Non-Tech,2022,14.93,19,5,10,0,30.63,45,7,25,3,2,8,1,1,1 of 2 goals,0,,,Sweatshirt,Consolation goodie,15.7,1.0518,3.83,1.87,Consistently low,Partial (2-3 goals)
+user_111,2022-06-13,2022-09-12,Tamil Nadu,Female,Non-Tech,2022,16.06,26,8,25,0,32.02,52,8,37,3,3,8,1,2,2 of 2 goals,0,,,Sweatshirt,Consolation goodie,15.96,0.9938,4.0,2.01,Consistently low,Partial (2-3 goals)
+user_112,2022-06-13,2022-09-12,Tamil Nadu,Male,Tech,2022,48.15,68,8,30,7,95.41,134,8,47,8,8,8,1,2,2 of 2 goals,1,28,2022-10-12,Hamper,Target hamper,47.25,0.9813,11.93,6.02,Consistent high,Achiever
+user_113,2022-06-27,2022-09-12,Karnataka,Male,Non-Tech,2022,1.17,2,2,3,0,7.22,12,2,6,2,1,7,0,1,1 of 2 goals,0,,,T-shirt,Consolation goodie,6.05,5.1673,0.9,0.15,Consistently low,Partial (2-3 goals)
+user_114,2022-06-27,2022-09-12,Kerala,Male,Tech,2022,2.6,4,1,2,0,107.07,132,8,49,8,8,8,1,2,2 of 2 goals,1,20,2022-10-12,Hamper,Target hamper,104.47,40.1801,13.38,0.32,Activated,Achiever
+user_115,2022-06-13,2022-09-12,Telangana,Female,Non-Tech,2023,13.22,19,5,11,2,40.8,58,8,32,6,4,8,1,2,2 of 2 goals,1,164,2022-10-21,Hamper,Target hamper,27.58,2.086,5.1,1.65,Activated,Achiever
+user_116,2022-06-27,2022-09-12,Telangana,Female,Tech,2023,3.33,6,3,5,0,5.82,14,4,6,0,0,7,0,0,0 of 2 goals,0,,,No reward,None,2.48,0.745,0.73,0.42,Consistently low,Low (0-1 goal)
+user_117,2022-06-27,2022-09-12,Kerala,Female,Tech,2022,53.89,66,8,33,6,22.47,34,2,9,2,2,8,1,0,0 of 2 goals,0,,,T-shirt,Consolation goodie,-31.42,-0.583,2.81,6.74,Dropped off,Partial (2-3 goals)
+user_118,2022-06-27,2022-09-12,Andhra Pradesh,Male,Tech,2022,32.08,36,7,25,4,23.65,40,5,21,4,4,6,0,2,2 of 2 goals,0,,,Backpack,Consolation goodie,-8.43,-0.2627,2.96,4.01,Consistently low,Near miss
+user_119,2022-06-13,2022-09-12,Kerala,Female,Tech,2022,56.24,85,8,36,7,32.47,55,8,26,3,2,8,1,2,2 of 2 goals,0,,,Sweatshirt,Consolation goodie,-23.76,-0.4225,4.06,7.03,Dropped off,Partial (2-3 goals)
+user_120,2022-06-27,2022-09-12,Telangana,Male,Tech,2022,39.2,64,4,16,3,43.18,72,8,24,5,3,8,1,2,2 of 2 goals,1,158,2022-10-26,Hamper,Target hamper,3.97,0.1013,5.4,4.9,Consistent high,Achiever
+user_121,2022-06-27,2022-09-12,Karnataka,Female,Non-Tech,2022,45.1,58,8,34,8,31.63,41,7,27,4,3,8,1,1,1 of 2 goals,0,,,Backpack,Consolation goodie,-13.47,-0.2987,3.95,5.64,Dropped off,Near miss
+user_122,2022-06-27,2022-09-12,Andhra Pradesh,Female,Tech,2022,70.29,84,8,45,8,49.98,71,8,40,6,3,8,1,2,2 of 2 goals,1,143,2022-10-20,Hamper,Target hamper,-20.32,-0.289,6.25,8.79,Consistent high,Achiever
+user_123,2022-06-27,2022-09-12,Telangana,Female,Non-Tech,2023,98.79,134,8,49,8,97.21,121,8,43,8,8,8,1,2,2 of 2 goals,1,26,2022-10-11,Hamper,Target hamper,-1.58,-0.016,12.15,12.35,Consistent high,Achiever
+user_124,2022-06-27,2022-09-12,Telangana,Female,Non-Tech,2022,39.84,48,8,33,5,77.64,104,8,42,7,6,8,1,2,2 of 2 goals,1,61,2022-10-14,Hamper,Target hamper,37.8,0.9487,9.7,4.98,Consistent high,Achiever
+user_125,2022-06-13,2022-09-12,Andhra Pradesh,Male,Non-Tech,2023,48.68,71,8,33,4,66.64,87,8,38,6,5,8,1,1,1 of 2 goals,1,88,2022-10-20,Hamper,Target hamper,17.96,0.3688,8.33,6.09,Consistent high,Achiever
+user_126,2022-06-06,2022-09-12,Telangana,Female,Tech,2023,15.21,31,4,15,3,25.12,48,7,27,5,4,8,1,0,0 of 2 goals,1,173,2022-11-04,Hamper,Target hamper,9.9,0.651,3.14,1.9,Consistently low,Achiever
+user_127,2022-06-13,2022-09-12,Tamil Nadu,Female,Tech,2023,50.84,80,8,38,7,85.76,104,8,45,8,8,8,1,2,2 of 2 goals,1,42,2022-10-12,Hamper,Target hamper,34.91,0.6866,10.72,6.36,Consistent high,Achiever
+user_128,2022-06-13,2022-09-12,Andhra Pradesh,Male,Non-Tech,2022,7.38,13,2,7,1,3.32,7,2,4,0,0,6,0,0,0 of 2 goals,0,,,No reward,None,-4.06,-0.5497,0.42,0.92,Consistently low,Low (0-1 goal)
+user_129,2022-06-13,2022-09-12,Kerala,Male,Non-Tech,2023,40.92,64,7,20,3,102.12,129,8,36,7,7,8,1,1,1 of 2 goals,1,24,2022-10-21,Hamper,Target hamper,61.2,1.4955,12.76,5.12,Consistent high,Achiever
+user_130,2022-06-13,2022-09-12,Kerala,Male,Tech,2022,37.88,55,6,29,5,49.5,78,8,40,7,4,8,1,2,2 of 2 goals,1,144,2022-10-21,Hamper,Target hamper,11.62,0.3067,6.19,4.74,Consistent high,Achiever
+user_131,2022-06-06,2022-09-12,Tamil Nadu,Female,Non-Tech,2022,19.77,24,7,13,2,21.26,29,4,7,2,1,7,0,0,0 of 2 goals,0,,,T-shirt,Consolation goodie,1.49,0.0754,2.66,2.47,Consistently low,Partial (2-3 goals)
+user_132,2022-06-13,2022-09-12,Andhra Pradesh,Male,Non-Tech,2023,50.17,67,8,37,7,56.59,63,7,33,5,5,8,1,2,2 of 2 goals,1,124,2022-10-13,Hamper,Target hamper,6.42,0.1279,7.07,6.27,Consistent high,Achiever
+user_133,2022-06-13,2022-09-12,Tamil Nadu,Male,Tech,2023,25.16,36,6,17,2,27.47,29,6,16,3,3,6,0,2,2 of 2 goals,0,,,Sweatshirt,Consolation goodie,2.31,0.0917,3.43,3.14,Consistently low,Partial (2-3 goals)
+user_134,2022-06-13,2022-09-12,Kerala,Female,Non-Tech,2022,0.0,0,0,0,0,0.0,0,0,0,0,0,,0,0,0 of 2 goals,0,,,No reward,None,0.0,,0.0,0.0,Consistently low,Low (0-1 goal)
+user_135,2022-06-13,2022-09-12,Tamil Nadu,Female,Non-Tech,2023,8.87,14,5,6,1,17.52,25,6,17,1,1,8,1,1,1 of 2 goals,0,,,Water Bottle,Consolation goodie,8.65,0.9756,2.19,1.11,Consistently low,Low (0-1 goal)
+user_136,2022-06-13,2022-09-12,Andhra Pradesh,Female,Tech,2023,20.11,34,4,12,2,58.19,80,8,39,6,6,8,1,2,2 of 2 goals,1,118,2022-10-14,Hamper,Target hamper,38.09,1.8941,7.27,2.51,Activated,Achiever
+user_137,2022-06-13,2022-09-12,Karnataka,Male,Non-Tech,2022,81.77,119,8,47,8,33.64,33,7,29,4,3,7,0,1,1 of 2 goals,0,,,Backpack,Consolation goodie,-48.12,-0.5886,4.21,10.22,Dropped off,Near miss
+user_138,2022-06-13,2022-09-12,Andhra Pradesh,Female,Non-Tech,2022,47.74,91,6,28,6,72.82,92,8,34,7,7,8,1,2,2 of 2 goals,1,74,2022-10-12,Hamper,Target hamper,25.09,0.5256,9.1,5.97,Consistent high,Achiever
+user_139,2022-06-13,2022-09-12,Kerala,Female,Tech,2023,19.95,35,6,19,2,55.36,82,8,40,6,5,8,1,1,1 of 2 goals,1,128,2022-10-26,Hamper,Target hamper,35.41,1.7746,6.92,2.49,Activated,Achiever
+user_140,2022-06-13,2022-09-12,Tamil Nadu,Female,Non-Tech,2023,53.1,83,6,26,6,27.05,33,7,24,2,1,8,1,1,1 of 2 goals,0,,,T-shirt,Consolation goodie,-26.06,-0.4907,3.38,6.64,Dropped off,Partial (2-3 goals)
+user_141,2022-06-13,2022-09-12,Kerala,Female,Non-Tech,2022,61.09,84,7,30,6,160.54,227,8,47,8,8,8,1,2,2 of 2 goals,1,1,2022-10-12,Laptop + Hamper,Top 3 prize,99.45,1.6279,20.07,7.64,Consistent high,Achiever
+user_142,2022-06-13,2022-09-12,Karnataka,Male,Tech,2023,89.02,118,8,42,8,79.55,108,6,31,5,3,8,1,2,2 of 2 goals,1,52,2022-11-02,Hamper,Target hamper,-9.47,-0.1063,9.94,11.13,Consistent high,Achiever
+user_143,2022-06-13,2022-09-12,Tamil Nadu,Female,Non-Tech,2022,16.31,25,7,22,1,39.45,56,8,30,4,3,8,1,0,0 of 2 goals,0,,,Backpack,Consolation goodie,23.14,1.4184,4.93,2.04,Activated,Near miss
+user_144,2022-06-13,2022-09-12,Karnataka,Female,Non-Tech,2022,67.25,97,8,26,6,64.54,81,8,20,6,6,8,1,1,1 of 2 goals,1,94,2022-10-20,Hamper,Target hamper,-2.7,-0.0402,8.07,8.41,Consistent high,Achiever
+user_145,2022-06-13,2022-09-12,Andhra Pradesh,Male,Non-Tech,2023,20.12,29,5,16,2,1.5,2,2,2,0,0,2,0,0,0 of 2 goals,0,,,No reward,None,-18.62,-0.9254,0.19,2.51,Consistently low,Low (0-1 goal)
+user_146,2022-06-13,2022-09-12,Andhra Pradesh,Male,Non-Tech,2023,44.75,66,6,29,5,20.51,40,7,20,2,1,7,0,1,1 of 2 goals,0,,,T-shirt,Consolation goodie,-24.25,-0.5418,2.56,5.59,Dropped off,Partial (2-3 goals)
+user_147,2022-06-13,2022-09-12,Karnataka,Female,Non-Tech,2022,36.91,66,8,25,4,63.36,72,8,34,4,3,8,1,1,1 of 2 goals,0,,,Backpack,Consolation goodie,26.45,0.7166,7.92,4.61,Activated,Near miss
+user_148,2022-06-13,2022-09-12,Tamil Nadu,Female,Non-Tech,2023,88.86,105,8,41,8,85.85,119,8,36,7,7,8,1,2,2 of 2 goals,1,41,2022-10-12,Hamper,Target hamper,-3.01,-0.0339,10.73,11.11,Consistent high,Achiever
+user_149,2022-06-13,2022-09-12,Telangana,Female,Non-Tech,2023,50.32,68,8,39,7,65.34,82,8,48,6,3,8,1,2,2 of 2 goals,1,93,2022-10-20,Hamper,Target hamper,15.02,0.2986,8.17,6.29,Consistent high,Achiever
+user_150,2022-06-13,2022-09-12,Tamil Nadu,Male,Non-Tech,2022,20.98,21,4,9,3,34.59,65,6,26,4,3,8,1,2,2 of 2 goals,0,,,Backpack,Consolation goodie,13.61,0.6484,4.32,2.62,Consistently low,Near miss
+user_151,2022-06-13,2022-09-12,Tamil Nadu,Female,Tech,2022,23.81,35,7,17,2,75.24,101,8,37,5,3,8,1,1,1 of 2 goals,1,68,2022-10-27,Hamper,Target hamper,51.43,2.16,9.4,2.98,Activated,Achiever
+user_152,2022-06-13,2022-09-12,Andhra Pradesh,Male,Tech,2022,89.62,118,5,26,4,72.82,93,5,31,5,3,8,1,2,2 of 2 goals,1,75,2022-11-02,Hamper,Target hamper,-16.8,-0.1874,9.1,11.2,Consistent high,Achiever
+user_153,2022-06-13,2022-09-12,Andhra Pradesh,Female,Non-Tech,2022,6.83,10,2,3,1,5.33,7,3,5,1,1,7,0,0,0 of 2 goals,0,,,Water Bottle,Consolation goodie,-1.49,-0.2189,0.67,0.85,Consistently low,Low (0-1 goal)
+user_154,2022-06-13,2022-09-12,Kerala,Male,Non-Tech,2022,0.0,0,0,0,0,71.54,110,7,23,4,2,8,1,1,1 of 2 goals,0,,,Backpack,Consolation goodie,71.54,,8.94,0.0,Activated,Near miss
+user_155,2022-06-13,2022-09-12,Karnataka,Male,Tech,2023,8.23,12,4,9,1,21.9,26,7,17,2,2,7,0,1,1 of 2 goals,0,,,T-shirt,Consolation goodie,13.67,1.6603,2.74,1.03,Consistently low,Partial (2-3 goals)
+user_156,2022-06-13,2022-09-12,Karnataka,Female,Non-Tech,2022,46.27,63,8,34,5,50.62,63,8,31,7,7,8,1,2,2 of 2 goals,1,140,2022-10-16,Hamper,Target hamper,4.35,0.094,6.33,5.78,Consistent high,Achiever
+user_157,2022-06-13,2022-09-12,Tamil Nadu,Male,Tech,2022,35.21,52,8,25,3,33.88,53,8,37,5,3,8,1,2,2 of 2 goals,1,169,2022-10-20,Hamper,Target hamper,-1.33,-0.0378,4.23,4.4,Consistently low,Achiever
+user_158,2022-06-13,2022-09-12,Andhra Pradesh,Male,Tech,2022,15.06,26,6,12,1,10.65,17,5,8,1,1,7,0,0,0 of 2 goals,0,,,Water Bottle,Consolation goodie,-4.41,-0.2927,1.33,1.88,Consistently low,Low (0-1 goal)
+user_159,2022-06-13,2022-09-12,Telangana,Female,Non-Tech,2022,60.02,80,7,28,5,75.02,95,8,49,7,5,8,1,2,2 of 2 goals,1,69,2022-10-11,Hamper,Target hamper,15.0,0.2499,9.38,7.5,Consistent high,Achiever
+user_160,2022-06-13,2022-09-12,Telangana,Male,Tech,2023,37.04,45,8,26,4,29.63,53,7,17,3,2,7,0,2,2 of 2 goals,0,,,Sweatshirt,Consolation goodie,-7.41,-0.2001,3.7,4.63,Consistently low,Partial (2-3 goals)
+user_161,2022-06-13,2022-09-12,Karnataka,Female,Non-Tech,2023,84.79,108,8,44,7,31.7,27,7,21,2,2,8,1,2,2 of 2 goals,0,,,T-shirt,Consolation goodie,-53.09,-0.6262,3.96,10.6,Dropped off,Partial (2-3 goals)
+user_162,2022-06-13,2022-09-12,Andhra Pradesh,Female,Non-Tech,2023,104.96,170,8,33,5,105.78,189,8,43,7,5,8,1,2,2 of 2 goals,1,22,2022-10-20,Hamper,Target hamper,0.81,0.0077,13.22,13.12,Consistent high,Achiever
+user_163,2022-06-13,2022-09-12,Telangana,Male,Non-Tech,2022,64.7,88,8,43,7,70.79,85,8,42,6,5,8,1,2,2 of 2 goals,1,80,2022-10-13,Hamper,Target hamper,6.09,0.0941,8.85,8.09,Consistent high,Achiever
+user_164,2022-06-13,2022-09-12,Andhra Pradesh,Female,Tech,2023,23.43,34,6,18,1,49.0,63,6,22,5,4,8,1,1,1 of 2 goals,1,146,2022-11-02,Hamper,Target hamper,25.57,1.0913,6.12,2.93,Activated,Achiever
+user_165,2022-06-13,2022-09-12,Telangana,Female,Tech,2023,62.66,87,7,35,7,81.75,98,8,52,8,8,8,1,2,2 of 2 goals,1,49,2022-10-13,Hamper,Target hamper,19.09,0.3046,10.22,7.83,Consistent high,Achiever
+user_166,2022-06-13,2022-09-12,Andhra Pradesh,Female,Tech,2023,11.32,22,1,2,1,2.8,8,1,2,0,0,8,1,0,0 of 2 goals,0,,,No reward,None,-8.51,-0.7522,0.35,1.41,Consistently low,Low (0-1 goal)
+user_167,2022-06-06,2022-09-12,Karnataka,Female,Tech,2022,52.23,74,7,32,4,62.92,89,8,46,8,8,8,1,2,2 of 2 goals,1,102,2022-10-14,Hamper,Target hamper,10.69,0.2046,7.87,6.53,Consistent high,Achiever
+user_168,2022-06-13,2022-09-12,Andhra Pradesh,Male,Non-Tech,2022,54.79,78,8,40,7,25.04,42,6,30,5,3,8,1,1,1 of 2 goals,1,174,2022-11-06,Hamper,Target hamper,-29.75,-0.5429,3.13,6.85,Dropped off,Achiever
+user_169,2022-06-13,2022-09-12,Karnataka,Female,Non-Tech,2023,49.6,67,8,37,5,52.38,75,7,29,5,5,7,0,2,2 of 2 goals,1,134,2022-10-13,Hamper,Target hamper,2.77,0.0559,6.55,6.2,Consistent high,Achiever
+user_170,2022-06-13,2022-09-12,Telangana,Male,Non-Tech,2022,53.82,71,7,34,7,67.65,92,8,37,6,5,8,1,1,1 of 2 goals,1,85,2022-10-25,Hamper,Target hamper,13.83,0.2571,8.46,6.73,Consistent high,Achiever
+user_171,2022-06-06,2022-09-12,Kerala,Male,Tech,2023,0.85,2,3,3,0,0.1,2,1,1,0,0,1,0,0,0 of 2 goals,0,,,No reward,None,-0.76,-0.8867,0.01,0.11,Consistently low,Low (0-1 goal)
+user_172,2022-06-13,2022-09-12,Telangana,Female,Tech,2023,24.88,37,7,20,3,25.49,39,7,22,3,3,7,0,2,2 of 2 goals,0,,,Sweatshirt,Consolation goodie,0.61,0.0243,3.19,3.11,Consistently low,Partial (2-3 goals)
+user_173,2022-06-13,2022-09-12,Andhra Pradesh,Male,Tech,2023,46.32,67,8,35,6,65.76,95,8,45,7,6,8,1,2,2 of 2 goals,1,91,2022-10-11,Hamper,Target hamper,19.44,0.4197,8.22,5.79,Consistent high,Achiever
+user_174,2022-06-13,2022-09-12,Kerala,Male,Tech,2022,35.52,46,8,33,3,15.73,21,5,17,1,1,8,1,0,0 of 2 goals,0,,,Water Bottle,Consolation goodie,-19.79,-0.5572,1.97,4.44,Consistently low,Low (0-1 goal)
+user_175,2022-06-13,2022-09-12,Telangana,Male,Non-Tech,2022,90.1,124,8,35,6,73.2,94,7,28,5,5,7,0,2,2 of 2 goals,1,73,2022-10-11,Hamper,Target hamper,-16.9,-0.1876,9.15,11.26,Consistent high,Achiever
+user_176,2022-06-13,2022-09-12,Kerala,Female,Non-Tech,2022,28.16,51,6,11,3,9.38,20,5,7,1,1,7,0,1,1 of 2 goals,0,,,Water Bottle,Consolation goodie,-18.78,-0.6669,1.17,3.52,Consistently low,Low (0-1 goal)
+user_177,2022-06-13,2022-09-12,Telangana,Female,Non-Tech,2022,0.0,0,0,0,0,2.12,4,2,3,0,0,4,0,0,0 of 2 goals,0,,,No reward,None,2.12,,0.27,0.0,Consistently low,Low (0-1 goal)
+user_178,2022-06-13,2022-09-12,Andhra Pradesh,Male,Non-Tech,2022,41.44,54,6,16,3,77.76,93,8,30,7,6,8,1,2,2 of 2 goals,1,60,2022-10-11,Hamper,Target hamper,36.32,0.8764,9.72,5.18,Consistent high,Achiever
+user_179,2022-06-13,2022-09-12,Tamil Nadu,Female,Tech,2022,49.65,64,8,42,6,57.88,71,8,36,6,6,8,1,2,2 of 2 goals,1,120,2022-10-12,Hamper,Target hamper,8.24,0.1659,7.24,6.21,Consistent high,Achiever
+user_180,2022-06-06,2022-09-12,Tamil Nadu,Female,Tech,2022,20.51,31,5,17,3,83.35,100,8,43,8,8,8,1,2,2 of 2 goals,1,47,2022-10-12,Hamper,Target hamper,62.83,3.0633,10.42,2.56,Activated,Achiever
+user_181,2022-06-13,2022-09-12,Andhra Pradesh,Female,Non-Tech,2022,62.0,100,4,15,3,90.13,107,8,29,6,3,8,1,2,2 of 2 goals,1,33,2022-10-25,Hamper,Target hamper,28.13,0.4538,11.27,7.75,Consistent high,Achiever
+user_182,2022-06-13,2022-09-12,Andhra Pradesh,Female,Non-Tech,2023,28.76,41,7,18,2,74.75,97,8,32,6,4,8,1,1,1 of 2 goals,1,71,2022-10-27,Hamper,Target hamper,45.99,1.5991,9.34,3.59,Activated,Achiever
+user_183,2022-06-13,2022-09-12,Kerala,Male,Tech,2022,34.98,51,5,22,5,89.22,113,8,43,7,4,8,1,2,2 of 2 goals,1,35,2022-10-18,Hamper,Target hamper,54.24,1.5504,11.15,4.37,Activated,Achiever
+user_184,2022-06-13,2022-09-12,Andhra Pradesh,Male,Non-Tech,2023,38.38,46,6,17,3,82.46,110,8,34,6,3,8,1,2,2 of 2 goals,1,48,2022-10-26,Hamper,Target hamper,44.08,1.1486,10.31,4.8,Consistent high,Achiever
+user_185,2022-06-13,2022-09-12,Karnataka,Female,Non-Tech,2022,15.97,28,4,14,1,88.58,106,8,39,8,8,8,1,2,2 of 2 goals,1,36,2022-10-12,Hamper,Target hamper,72.61,4.5466,11.07,2.0,Activated,Achiever
+user_186,2022-06-13,2022-09-12,Karnataka,Female,Tech,2023,30.58,46,8,28,4,32.36,53,8,32,4,4,8,1,0,0 of 2 goals,0,,,Backpack,Consolation goodie,1.78,0.0581,4.05,3.82,Consistently low,Near miss
+user_187,2022-06-06,2022-09-12,Kerala,Male,Non-Tech,2022,57.7,77,8,35,7,76.78,99,8,52,8,8,8,1,2,2 of 2 goals,1,63,2022-10-12,Hamper,Target hamper,19.08,0.3308,9.6,7.21,Consistent high,Achiever
+user_188,2022-06-13,2022-09-12,Kerala,Male,Non-Tech,2023,6.42,13,2,4,1,0.92,2,2,2,0,0,4,0,0,0 of 2 goals,0,,,No reward,None,-5.5,-0.8572,0.11,0.8,Consistently low,Low (0-1 goal)
+user_189,2022-06-13,2022-09-12,Telangana,Female,Non-Tech,2023,15.41,20,7,22,2,23.24,38,7,32,3,3,8,1,1,1 of 2 goals,0,,,Sweatshirt,Consolation goodie,7.83,0.508,2.9,1.93,Consistently low,Partial (2-3 goals)
+user_190,2022-06-13,2022-09-12,Karnataka,Female,Non-Tech,2023,19.96,25,8,27,2,9.25,13,6,12,0,0,8,1,0,0 of 2 goals,0,,,No reward,None,-10.71,-0.5367,1.16,2.49,Consistently low,Low (0-1 goal)
+user_191,2022-06-13,2022-09-12,Karnataka,Female,Non-Tech,2022,32.15,40,3,12,3,61.23,102,7,29,6,6,7,0,2,2 of 2 goals,1,106,2022-10-13,Hamper,Target hamper,29.08,0.9044,7.65,4.02,Activated,Achiever
+user_192,2022-06-13,2022-09-12,Karnataka,Male,Tech,2022,38.84,61,7,20,4,28.59,47,7,25,5,2,8,1,2,2 of 2 goals,1,172,2022-11-05,Hamper,Target hamper,-10.25,-0.2639,3.57,4.85,Dropped off,Achiever
+user_193,2022-06-13,2022-09-12,Kerala,Male,Tech,2023,38.93,53,7,24,6,78.83,96,8,43,8,8,8,1,2,2 of 2 goals,1,55,2022-10-12,Hamper,Target hamper,39.89,1.0246,9.85,4.87,Consistent high,Achiever
+user_194,2022-06-13,2022-09-12,Telangana,Male,Tech,2023,59.4,76,8,36,7,89.56,109,8,51,8,8,8,1,2,2 of 2 goals,1,34,2022-10-11,Hamper,Target hamper,30.16,0.5077,11.19,7.42,Consistent high,Achiever
+user_195,2022-06-13,2022-09-12,Tamil Nadu,Female,Non-Tech,2022,40.96,55,6,22,3,25.84,42,7,26,3,2,7,0,1,1 of 2 goals,0,,,Sweatshirt,Consolation goodie,-15.12,-0.3692,3.23,5.12,Dropped off,Partial (2-3 goals)
+user_196,2022-06-13,2022-09-12,Karnataka,Female,Tech,2023,18.08,23,6,16,1,25.48,52,7,21,3,2,8,1,0,0 of 2 goals,0,,,Sweatshirt,Consolation goodie,7.4,0.4092,3.18,2.26,Consistently low,Partial (2-3 goals)
+user_197,2022-06-13,2022-09-12,Tamil Nadu,Male,Non-Tech,2022,23.6,39,5,20,3,30.17,47,8,30,5,5,8,1,1,1 of 2 goals,1,171,2022-10-23,Hamper,Target hamper,6.57,0.2783,3.77,2.95,Consistently low,Achiever
+user_198,2022-06-13,2022-09-12,Telangana,Female,Tech,2023,47.77,51,8,34,6,60.55,77,8,32,8,8,8,1,2,2 of 2 goals,1,108,2022-10-13,Hamper,Target hamper,12.78,0.2677,7.57,5.97,Consistent high,Achiever
+user_199,2022-06-13,2022-09-12,Telangana,Male,Non-Tech,2022,0.17,0,1,1,0,0.0,0,0,0,0,0,,0,0,0 of 2 goals,0,,,No reward,None,-0.17,-1.0,0.0,0.02,Consistently low,Low (0-1 goal)
+user_200,2022-06-13,2022-09-12,Kerala,Male,Tech,2022,46.37,62,8,34,6,84.9,111,8,31,7,7,8,1,2,2 of 2 goals,1,43,2022-10-15,Hamper,Target hamper,38.53,0.8308,10.61,5.8,Consistent high,Achiever
+user_201,2022-06-13,2022-09-12,Andhra Pradesh,Male,Non-Tech,2023,52.39,84,6,22,4,78.54,95,8,38,5,5,8,1,2,2 of 2 goals,1,57,2022-10-12,Hamper,Target hamper,26.15,0.4991,9.82,6.55,Consistent high,Achiever
+user_202,2022-06-13,2022-09-12,Andhra Pradesh,Male,Tech,2022,36.76,48,6,19,3,56.08,78,6,11,4,3,8,1,0,0 of 2 goals,0,,,Backpack,Consolation goodie,19.32,0.5255,7.01,4.6,Activated,Near miss
+user_203,2022-06-13,2022-09-12,Tamil Nadu,Female,Non-Tech,2023,5.19,8,4,7,1,25.07,36,8,24,3,1,8,1,1,1 of 2 goals,0,,,Sweatshirt,Consolation goodie,19.88,3.8321,3.13,0.65,Consistently low,Partial (2-3 goals)
+user_204,2022-06-13,2022-09-12,Andhra Pradesh,Male,Tech,2023,25.75,35,7,18,3,51.48,80,7,24,6,6,8,1,2,2 of 2 goals,1,136,2022-10-11,Hamper,Target hamper,25.73,0.9993,6.44,3.22,Activated,Achiever
+user_205,2022-06-13,2022-09-12,Kerala,Female,Tech,2023,3.52,5,5,8,0,5.13,8,3,5,0,0,5,0,0,0 of 2 goals,0,,,No reward,None,1.6,0.4544,0.64,0.44,Consistently low,Low (0-1 goal)
+user_206,2022-06-13,2022-09-12,Telangana,Female,Non-Tech,2023,4.18,10,3,7,0,7.92,16,7,16,0,0,8,1,0,0 of 2 goals,0,,,No reward,None,3.75,0.8974,0.99,0.52,Consistently low,Low (0-1 goal)
+user_207,2022-06-06,2022-09-12,Andhra Pradesh,Female,Tech,2023,22.75,35,5,14,3,38.05,61,8,24,3,1,8,1,0,0 of 2 goals,0,,,Sweatshirt,Consolation goodie,15.3,0.6726,4.76,2.84,Activated,Partial (2-3 goals)
+user_208,2022-06-13,2022-09-12,Telangana,Female,Non-Tech,2022,71.37,103,8,38,6,59.56,66,8,36,7,4,8,1,2,2 of 2 goals,1,111,2022-10-21,Hamper,Target hamper,-11.81,-0.1654,7.45,8.92,Consistent high,Achiever
+user_209,2022-06-13,2022-09-12,Telangana,Female,Tech,2023,41.78,64,8,41,6,28.7,38,8,33,3,2,8,1,2,2 of 2 goals,0,,,Sweatshirt,Consolation goodie,-13.09,-0.3132,3.59,5.22,Dropped off,Partial (2-3 goals)
+user_210,2022-06-13,2022-09-12,Andhra Pradesh,Female,Non-Tech,2022,46.03,53,8,25,5,63.56,96,8,29,7,7,8,1,2,2 of 2 goals,1,97,2022-10-14,Hamper,Target hamper,17.53,0.3808,7.95,5.75,Consistent high,Achiever
+user_211,2022-06-06,2022-09-12,Andhra Pradesh,Female,Non-Tech,2023,16.25,18,7,16,1,31.82,47,6,17,3,3,8,1,0,0 of 2 goals,0,,,Sweatshirt,Consolation goodie,15.57,0.9582,3.98,2.03,Consistently low,Partial (2-3 goals)
+user_212,2022-06-13,2022-09-12,Kerala,Female,Non-Tech,2022,33.79,49,4,24,4,88.41,112,8,38,6,6,8,1,0,0 of 2 goals,1,37,2022-10-26,Hamper,Target hamper,54.62,1.6166,11.05,4.22,Activated,Achiever
+user_213,2022-06-06,2022-09-12,Tamil Nadu,Female,Tech,2022,22.77,40,6,13,3,18.54,29,5,18,2,1,8,1,0,0 of 2 goals,0,,,T-shirt,Consolation goodie,-4.22,-0.1855,2.32,2.85,Consistently low,Partial (2-3 goals)
+user_214,2022-06-13,2022-09-12,Andhra Pradesh,Male,Non-Tech,2023,104.76,283,8,38,8,109.66,160,7,30,6,6,7,0,2,2 of 2 goals,1,18,2022-10-12,Hamper,Target hamper,4.9,0.0468,13.71,13.09,Consistent high,Achiever
+user_215,2022-06-13,2022-09-12,Tamil Nadu,Female,Non-Tech,2022,45.06,75,3,14,2,109.85,135,8,36,7,5,8,1,2,2 of 2 goals,1,17,2022-10-10,Hamper,Target hamper,64.78,1.4376,13.73,5.63,Consistent high,Achiever
+user_216,2022-06-13,2022-09-12,Telangana,Male,Tech,2023,111.38,164,8,42,8,70.01,92,7,34,7,7,8,1,1,1 of 2 goals,1,83,2022-10-18,Hamper,Target hamper,-41.36,-0.3714,8.75,13.92,Consistent high,Achiever
+user_217,2022-06-06,2022-09-12,Andhra Pradesh,Female,Tech,2022,62.96,87,8,32,6,37.66,48,8,26,5,2,8,1,1,1 of 2 goals,1,166,2022-11-06,Hamper,Target hamper,-25.3,-0.4019,4.71,7.87,Dropped off,Achiever
+user_218,2022-06-13,2022-09-12,Telangana,Male,Non-Tech,2023,139.19,205,8,43,7,153.53,188,8,51,8,8,8,1,2,2 of 2 goals,1,2,2022-10-11,Tablet + Hamper,Top 3 prize,14.35,0.1031,19.19,17.4,Consistent high,Achiever
+user_219,2022-06-06,2022-09-12,Karnataka,Female,Tech,2022,35.35,54,4,16,3,24.42,50,6,26,4,3,7,0,0,0 of 2 goals,0,,,Backpack,Consolation goodie,-10.93,-0.3091,3.05,4.42,Consistently low,Near miss
+user_220,2022-06-13,2022-09-12,Telangana,Female,Non-Tech,2022,77.42,113,8,43,6,78.1,91,8,46,7,7,8,1,1,1 of 2 goals,1,59,2022-10-18,Hamper,Target hamper,0.68,0.0088,9.76,9.68,Consistent high,Achiever
+user_221,2022-06-06,2022-09-12,Telangana,Female,Non-Tech,2022,69.18,99,7,32,5,49.31,61,7,31,6,5,8,1,1,1 of 2 goals,1,145,2022-10-29,Hamper,Target hamper,-19.88,-0.2873,6.16,8.65,Consistent high,Achiever
+user_222,2022-06-06,2022-09-12,Telangana,Female,Tech,2022,0.72,1,1,2,0,1.91,4,3,5,0,0,8,1,0,0 of 2 goals,0,,,No reward,None,1.19,1.6628,0.24,0.09,Consistently low,Low (0-1 goal)
+user_223,2022-06-13,2022-09-12,Karnataka,Female,Non-Tech,2023,64.32,88,8,43,8,65.79,81,8,43,7,7,8,1,2,2 of 2 goals,1,90,2022-10-14,Hamper,Target hamper,1.47,0.0228,8.22,8.04,Consistent high,Achiever
+user_225,2022-06-13,2022-09-12,Andhra Pradesh,Female,Non-Tech,2022,18.36,23,5,14,2,36.2,56,8,32,5,3,8,1,2,2 of 2 goals,1,168,2022-11-04,Hamper,Target hamper,17.84,0.9713,4.52,2.3,Consistently low,Achiever
+user_226,2022-06-06,2022-09-12,Tamil Nadu,Male,Tech,2023,54.98,74,8,38,7,72.75,83,8,51,8,8,8,1,2,2 of 2 goals,1,76,2022-10-13,Hamper,Target hamper,17.78,0.3234,9.09,6.87,Consistent high,Achiever
+user_227,2022-06-13,2022-09-12,Telangana,Male,Tech,2023,52.07,75,8,34,5,51.62,59,7,27,6,5,8,1,1,1 of 2 goals,1,135,2022-10-21,Hamper,Target hamper,-0.45,-0.0087,6.45,6.51,Consistent high,Achiever
+user_228,2022-06-06,2022-09-12,Kerala,Male,Non-Tech,2023,50.57,74,8,39,8,83.35,103,8,45,8,8,8,1,2,2 of 2 goals,1,46,2022-10-14,Hamper,Target hamper,32.78,0.6481,10.42,6.32,Consistent high,Achiever
+user_229,2022-06-06,2022-09-12,Karnataka,Female,Non-Tech,2023,6.04,13,2,4,0,4.3,11,3,4,0,0,4,0,0,0 of 2 goals,0,,,No reward,None,-1.74,-0.2877,0.54,0.75,Consistently low,Low (0-1 goal)
+user_230,2022-06-13,2022-09-12,Andhra Pradesh,Female,Non-Tech,2022,17.38,33,4,11,3,95.78,118,7,22,5,4,7,0,1,1 of 2 goals,1,27,2022-10-25,Hamper,Target hamper,78.4,4.5111,11.97,2.17,Activated,Achiever
+user_231,2022-06-13,2022-09-12,Telangana,Female,Tech,2022,75.03,138,8,45,7,56.81,91,8,36,6,6,8,1,2,2 of 2 goals,1,123,2022-10-16,Hamper,Target hamper,-18.22,-0.2428,7.1,9.38,Consistent high,Achiever
+user_232,2022-06-13,2022-09-12,Kerala,Male,Non-Tech,2022,60.1,85,7,29,7,79.28,101,8,40,7,7,8,1,1,1 of 2 goals,1,54,2022-10-18,Hamper,Target hamper,19.18,0.3191,9.91,7.51,Consistent high,Achiever
+user_233,2022-06-13,2022-09-12,Andhra Pradesh,Female,Tech,2023,65.87,90,8,42,8,58.71,67,8,40,7,6,8,1,1,1 of 2 goals,1,115,2022-10-22,Hamper,Target hamper,-7.16,-0.1087,7.34,8.23,Consistent high,Achiever
+user_234,2022-06-13,2022-09-12,Kerala,Female,Tech,2023,65.73,94,8,32,8,58.92,72,8,37,8,8,8,1,2,2 of 2 goals,1,114,2022-10-15,Hamper,Target hamper,-6.81,-0.1036,7.37,8.22,Consistent high,Achiever
+user_235,2022-06-13,2022-09-12,Telangana,Female,Non-Tech,2022,54.4,74,5,21,4,90.8,111,8,39,7,5,8,1,2,2 of 2 goals,1,32,2022-10-11,Hamper,Target hamper,36.4,0.6692,11.35,6.8,Consistent high,Achiever
+user_236,2022-06-06,2022-09-12,Kerala,Male,Tech,2023,43.6,54,8,31,6,25.11,53,8,39,4,2,8,1,2,2 of 2 goals,0,,,Backpack,Consolation goodie,-18.49,-0.4241,3.14,5.45,Dropped off,Near miss
+user_237,2022-06-06,2022-09-12,Telangana,Female,Non-Tech,2022,64.31,88,8,37,6,94.1,126,8,42,8,8,8,1,2,2 of 2 goals,1,29,2022-10-11,Hamper,Target hamper,29.79,0.4633,11.76,8.04,Consistent high,Achiever
+user_238,2022-06-13,2022-09-12,Tamil Nadu,Female,Tech,2023,74.13,107,8,44,8,75.38,86,8,41,7,6,8,1,2,2 of 2 goals,1,67,2022-10-13,Hamper,Target hamper,1.26,0.017,9.42,9.27,Consistent high,Achiever
+user_239,2022-06-13,2022-09-12,Andhra Pradesh,Female,Tech,2022,17.7,20,6,24,1,10.2,15,6,16,1,1,6,0,0,0 of 2 goals,0,,,Water Bottle,Consolation goodie,-7.5,-0.4236,1.28,2.21,Consistently low,Low (0-1 goal)
+user_240,2022-06-13,2022-09-12,Tamil Nadu,Female,Tech,2022,38.05,74,7,13,5,17.41,20,6,13,2,1,7,0,1,1 of 2 goals,0,,,T-shirt,Consolation goodie,-20.63,-0.5424,2.18,4.76,Dropped off,Partial (2-3 goals)
+user_241,2022-06-06,2022-09-12,Kerala,Female,Non-Tech,2023,86.73,122,8,29,6,71.31,105,8,30,7,7,8,1,2,2 of 2 goals,1,79,2022-10-11,Hamper,Target hamper,-15.42,-0.1778,8.91,10.84,Consistent high,Achiever
+user_242,2022-06-13,2022-09-12,Andhra Pradesh,Male,Non-Tech,2023,42.38,58,8,39,7,79.31,101,8,53,8,8,8,1,2,2 of 2 goals,1,53,2022-10-15,Hamper,Target hamper,36.92,0.8712,9.91,5.3,Consistent high,Achiever
+user_243,2022-06-13,2022-09-12,Telangana,Male,Non-Tech,2022,94.38,121,8,47,8,66.62,96,7,43,7,7,7,0,2,2 of 2 goals,1,89,2022-10-12,Hamper,Target hamper,-27.76,-0.2941,8.33,11.8,Consistent high,Achiever
+user_244,2022-06-13,2022-09-12,Tamil Nadu,Male,Non-Tech,2023,82.62,113,8,39,8,61.81,82,8,33,7,5,8,1,2,2 of 2 goals,1,105,2022-10-20,Hamper,Target hamper,-20.8,-0.2518,7.73,10.33,Consistent high,Achiever
+user_245,2022-06-13,2022-09-12,Kerala,Male,Tech,2022,66.12,98,8,40,7,25.35,27,7,21,2,1,7,0,1,1 of 2 goals,0,,,T-shirt,Consolation goodie,-40.76,-0.6165,3.17,8.26,Dropped off,Partial (2-3 goals)
+user_246,2022-06-06,2022-09-12,Tamil Nadu,Female,Tech,2023,19.34,22,4,12,2,9.04,14,2,5,1,1,6,0,0,0 of 2 goals,0,,,Water Bottle,Consolation goodie,-10.31,-0.5328,1.13,2.42,Consistently low,Low (0-1 goal)
+user_247,2022-06-06,2022-09-12,Andhra Pradesh,Female,Non-Tech,2022,36.6,41,5,23,5,63.4,86,8,44,7,5,8,1,2,2 of 2 goals,1,98,2022-10-13,Hamper,Target hamper,26.8,0.7323,7.92,4.57,Activated,Achiever
+user_248,2022-06-06,2022-09-12,Karnataka,Female,Tech,2023,66.16,97,8,30,5,7.99,7,6,12,0,0,8,1,0,0 of 2 goals,0,,,No reward,None,-58.18,-0.8793,1.0,8.27,Dropped off,Low (0-1 goal)
+user_249,2022-06-06,2022-09-12,Telangana,Male,Non-Tech,2023,18.67,21,8,20,1,5.07,6,7,14,0,0,7,0,0,0 of 2 goals,0,,,No reward,None,-13.6,-0.7286,0.63,2.33,Consistently low,Low (0-1 goal)
+user_250,2022-06-13,2022-09-12,Karnataka,Female,Non-Tech,2022,26.09,32,5,23,3,43.17,60,6,26,5,3,8,1,2,2 of 2 goals,1,159,2022-11-01,Hamper,Target hamper,17.08,0.6549,5.4,3.26,Activated,Achiever
+user_251,2022-06-13,2022-09-12,Andhra Pradesh,Female,Tech,2023,86.93,119,8,41,7,62.99,64,7,22,4,2,8,1,1,1 of 2 goals,0,,,Backpack,Consolation goodie,-23.94,-0.2754,7.87,10.87,Consistent high,Near miss
+user_252,2022-06-06,2022-09-12,Karnataka,Female,Tech,2023,48.44,67,8,40,8,45.14,52,8,47,7,4,8,1,2,2 of 2 goals,1,152,2022-10-20,Hamper,Target hamper,-3.3,-0.0681,5.64,6.06,Consistent high,Achiever
+user_253,2022-06-13,2022-09-12,Andhra Pradesh,Female,Non-Tech,2022,24.24,33,7,21,4,36.43,44,7,26,3,2,8,1,1,1 of 2 goals,0,,,Sweatshirt,Consolation goodie,12.2,0.5032,4.55,3.03,Consistently low,Partial (2-3 goals)
+user_254,2022-06-06,2022-09-12,Tamil Nadu,Male,Tech,2023,38.06,62,7,24,4,36.87,61,8,38,4,2,8,1,2,2 of 2 goals,0,,,Backpack,Consolation goodie,-1.2,-0.0314,4.61,4.76,Dropped off,Near miss
+user_255,2022-06-13,2022-09-12,Karnataka,Male,Tech,2023,31.09,45,5,17,3,32.87,50,7,24,6,5,7,0,1,1 of 2 goals,1,170,2022-10-23,Hamper,Target hamper,1.78,0.0571,4.11,3.89,Consistently low,Achiever
+user_256,2022-06-06,2022-09-12,Tamil Nadu,Female,Non-Tech,2023,37.34,64,7,23,3,26.11,98,7,30,4,2,8,1,2,2 of 2 goals,0,,,Backpack,Consolation goodie,-11.23,-0.3008,3.26,4.67,Consistently low,Near miss
+user_257,2022-06-06,2022-09-12,Andhra Pradesh,Female,Tech,2022,22.03,36,5,9,2,9.44,25,4,5,2,2,8,1,0,0 of 2 goals,0,,,T-shirt,Consolation goodie,-12.58,-0.5713,1.18,2.75,Consistently low,Partial (2-3 goals)
+user_258,2022-06-13,2022-09-12,Tamil Nadu,Female,Tech,2023,70.37,108,8,36,8,76.14,85,8,49,8,8,8,1,2,2 of 2 goals,1,65,2022-10-11,Hamper,Target hamper,5.77,0.0819,9.52,8.8,Consistent high,Achiever
+user_259,2022-06-06,2022-09-12,Telangana,Male,Non-Tech,2023,2.25,5,1,1,0,5.42,11,1,3,1,1,1,0,1,1 of 2 goals,0,,,Water Bottle,Consolation goodie,3.17,1.4074,0.68,0.28,Consistently low,Low (0-1 goal)
+user_260,2022-06-06,2022-09-12,Tamil Nadu,Male,Non-Tech,2022,70.76,99,8,43,8,35.02,44,5,27,4,4,6,0,2,2 of 2 goals,0,,,Backpack,Consolation goodie,-35.74,-0.505,4.38,8.85,Dropped off,Near miss
+user_261,2022-06-13,2022-09-12,Andhra Pradesh,Male,Non-Tech,2023,20.3,25,4,13,1,46.97,71,6,23,5,5,6,0,2,2 of 2 goals,1,151,2022-10-10,Hamper,Target hamper,26.66,1.3131,5.87,2.54,Activated,Achiever
+user_262,2022-06-13,2022-09-12,Telangana,Female,Tech,2022,35.53,46,6,28,6,112.76,131,8,45,6,3,8,1,1,1 of 2 goals,1,16,2022-10-29,Hamper,Target hamper,77.23,2.1738,14.1,4.44,Activated,Achiever
+user_263,2022-06-13,2022-09-12,Tamil Nadu,Male,Tech,2022,3.7,4,3,4,0,41.79,56,4,18,3,2,8,1,0,0 of 2 goals,0,,,Sweatshirt,Consolation goodie,38.09,10.296,5.22,0.46,Activated,Partial (2-3 goals)
+user_264,2022-06-13,2022-09-12,Telangana,Female,Non-Tech,2022,53.47,78,4,20,3,30.28,33,6,25,4,4,8,1,0,0 of 2 goals,0,,,Backpack,Consolation goodie,-23.19,-0.4337,3.79,6.68,Dropped off,Near miss
+user_265,2022-06-06,2022-09-12,Karnataka,Male,Tech,2022,3.17,6,2,2,0,0.0,0,0,0,0,0,,0,0,0 of 2 goals,0,,,No reward,None,-3.17,-1.0,0.0,0.4,Consistently low,Low (0-1 goal)
+user_267,2022-06-06,2022-09-12,Karnataka,Female,Tech,2022,23.35,30,6,14,2,11.27,22,5,8,1,1,8,1,1,1 of 2 goals,0,,,Water Bottle,Consolation goodie,-12.08,-0.5175,1.41,2.92,Consistently low,Low (0-1 goal)
+user_268,2022-06-13,2022-09-12,Andhra Pradesh,Male,Tech,2022,18.17,28,5,11,2,11.55,23,5,13,1,1,7,0,0,0 of 2 goals,0,,,Water Bottle,Consolation goodie,-6.63,-0.3646,1.44,2.27,Consistently low,Low (0-1 goal)
+user_269,2022-06-13,2022-09-12,Tamil Nadu,Male,Tech,2022,47.7,69,7,24,4,64.38,100,8,34,6,6,8,1,2,2 of 2 goals,1,96,2022-10-14,Hamper,Target hamper,16.67,0.3495,8.05,5.96,Consistent high,Achiever
+user_270,2022-06-13,2022-09-12,Kerala,Male,Non-Tech,2023,8.69,12,5,9,1,37.52,55,8,38,6,6,8,1,2,2 of 2 goals,1,167,2022-10-16,Hamper,Target hamper,28.83,3.3185,4.69,1.09,Consistently low,Achiever
+user_271,2022-06-13,2022-09-12,Telangana,Male,Non-Tech,2023,12.3,20,6,9,1,90.91,126,6,21,4,2,8,1,1,1 of 2 goals,0,,,Backpack,Consolation goodie,78.61,6.3907,11.36,1.54,Activated,Near miss
+user_272,2022-06-13,2022-09-12,Telangana,Male,Tech,2023,28.6,49,4,13,3,14.17,33,6,13,0,0,8,1,0,0 of 2 goals,0,,,No reward,None,-14.43,-0.5047,1.77,3.58,Consistently low,Low (0-1 goal)
+user_273,2022-06-06,2022-09-12,Telangana,Female,Tech,2023,57.59,95,8,34,6,113.57,153,7,36,7,7,7,0,2,2 of 2 goals,1,15,2022-10-13,Hamper,Target hamper,55.98,0.9721,14.2,7.2,Consistent high,Achiever
+user_274,2022-06-13,2022-09-12,Andhra Pradesh,Female,Non-Tech,2023,70.11,97,6,23,4,35.27,35,6,9,2,1,8,1,1,1 of 2 goals,0,,,T-shirt,Consolation goodie,-34.84,-0.4969,4.41,8.76,Dropped off,Partial (2-3 goals)
+user_275,2022-06-13,2022-09-12,Telangana,Female,Non-Tech,2023,46.14,59,8,34,4,61.13,73,8,49,7,5,8,1,2,2 of 2 goals,1,107,2022-10-14,Hamper,Target hamper,14.99,0.3248,7.64,5.77,Consistent high,Achiever
+user_276,2022-06-13,2022-09-12,Kerala,Male,Tech,2023,66.37,91,8,46,8,43.52,52,7,31,4,4,8,1,0,0 of 2 goals,0,,,Backpack,Consolation goodie,-22.85,-0.3443,5.44,8.3,Consistent high,Near miss
+user_277,2022-06-06,2022-09-12,Telangana,Female,Tech,2022,68.85,90,8,43,8,135.59,164,8,51,8,8,8,1,2,2 of 2 goals,1,6,2022-10-11,Hamper,Target hamper,66.74,0.9694,16.95,8.61,Consistent high,Achiever
+user_278,2022-06-13,2022-09-12,Karnataka,Female,Tech,2023,4.06,7,1,3,1,3.15,6,2,6,0,0,4,0,0,0 of 2 goals,0,,,No reward,None,-0.91,-0.224,0.39,0.51,Consistently low,Low (0-1 goal)
+user_279,2022-06-13,2022-09-12,Kerala,Female,Non-Tech,2023,80.63,117,6,29,4,78.3,90,8,39,8,8,8,1,2,2 of 2 goals,1,58,2022-10-12,Hamper,Target hamper,-2.33,-0.0289,9.79,10.08,Consistent high,Achiever
+user_280,2022-06-06,2022-09-12,Andhra Pradesh,Female,Tech,2023,40.05,55,8,23,3,13.3,25,5,15,3,3,6,0,1,1 of 2 goals,0,,,Sweatshirt,Consolation goodie,-26.75,-0.6679,1.66,5.01,Dropped off,Partial (2-3 goals)
+user_281,2022-06-06,2022-09-12,Karnataka,Female,Non-Tech,2022,0.07,0,1,1,0,0.93,8,1,1,0,0,4,0,0,0 of 2 goals,0,,,No reward,None,0.86,12.9375,0.12,0.01,Consistently low,Low (0-1 goal)
+user_282,2022-06-06,2022-09-12,Andhra Pradesh,Female,Non-Tech,2022,64.41,82,7,30,7,126.37,171,8,49,8,8,8,1,2,2 of 2 goals,1,10,2022-10-14,Hamper,Target hamper,61.97,0.9621,15.8,8.05,Consistent high,Achiever
+user_283,2022-06-06,2022-09-12,Kerala,Male,Non-Tech,2023,17.08,19,7,15,1,6.7,8,4,7,0,0,7,0,0,0 of 2 goals,0,,,No reward,None,-10.38,-0.6076,0.84,2.13,Consistently low,Low (0-1 goal)
+user_284,2022-06-06,2022-09-12,Karnataka,Female,Tech,2023,10.04,15,2,7,1,136.66,206,8,49,8,8,8,1,2,2 of 2 goals,1,5,2022-10-11,Hamper,Target hamper,126.61,12.6089,17.08,1.26,Activated,Achiever
+user_285,2022-06-06,2022-09-12,Kerala,Male,Non-Tech,2022,53.62,68,4,15,2,78.65,98,8,38,7,4,8,1,2,2 of 2 goals,1,56,2022-10-19,Hamper,Target hamper,25.03,0.4668,9.83,6.7,Consistent high,Achiever
+user_286,2022-06-06,2022-09-12,Andhra Pradesh,Female,Non-Tech,2023,102.77,210,8,48,8,137.08,161,8,54,8,8,8,1,2,2 of 2 goals,1,4,2022-10-12,Hamper,Target hamper,34.32,0.3339,17.14,12.85,Consistent high,Achiever
+user_287,2022-06-06,2022-09-12,Telangana,Female,Tech,2023,32.49,48,4,10,2,47.49,80,7,21,4,3,8,1,2,2 of 2 goals,0,,,Backpack,Consolation goodie,14.99,0.4615,5.94,4.06,Activated,Near miss
+user_288,2022-06-06,2022-09-12,Karnataka,Male,Non-Tech,2023,68.86,93,8,42,8,65.36,80,8,47,8,8,8,1,2,2 of 2 goals,1,92,2022-10-11,Hamper,Target hamper,-3.5,-0.0508,8.17,8.61,Consistent high,Achiever
+user_289,2022-06-06,2022-09-12,Tamil Nadu,Female,Tech,2022,3.59,4,3,5,0,18.67,35,7,18,1,1,8,1,0,0 of 2 goals,0,,,Water Bottle,Consolation goodie,15.08,4.1986,2.33,0.45,Consistently low,Low (0-1 goal)
+user_290,2022-06-06,2022-09-12,Telangana,Female,Tech,2022,0.0,0,0,0,0,54.57,76,7,26,5,4,8,1,1,1 of 2 goals,1,129,2022-11-01,Hamper,Target hamper,54.57,,6.82,0.0,Activated,Achiever
+user_291,2022-06-06,2022-09-12,Tamil Nadu,Female,Non-Tech,2023,32.83,48,7,33,5,44.88,68,8,36,7,6,8,1,2,2 of 2 goals,1,153,2022-10-15,Hamper,Target hamper,12.05,0.3669,5.61,4.1,Activated,Achiever
+user_293,2022-06-06,2022-09-12,Telangana,Male,Non-Tech,2023,48.6,60,7,25,4,41.7,59,7,28,2,1,8,1,1,1 of 2 goals,0,,,T-shirt,Consolation goodie,-6.9,-0.142,5.21,6.07,Consistent high,Partial (2-3 goals)
+user_294,2022-06-06,2022-09-12,Kerala,Female,Tech,2023,23.46,29,7,16,1,9.39,13,5,9,1,1,7,0,0,0 of 2 goals,0,,,Water Bottle,Consolation goodie,-14.07,-0.5999,1.17,2.93,Consistently low,Low (0-1 goal)
+user_295,2022-06-06,2022-09-12,Kerala,Female,Non-Tech,2022,47.27,83,8,32,6,41.63,61,8,31,7,5,8,1,2,2 of 2 goals,1,162,2022-10-14,Hamper,Target hamper,-5.64,-0.1193,5.2,5.91,Consistent high,Achiever
+user_296,2022-06-06,2022-09-12,Kerala,Female,Non-Tech,2022,0.0,0,0,0,0,0.0,0,0,0,0,0,,0,0,0 of 2 goals,0,,,No reward,None,0.0,,0.0,0.0,Consistently low,Low (0-1 goal)
+user_297,2022-06-06,2022-09-12,Telangana,Female,Non-Tech,2023,52.46,77,8,26,6,35.86,44,8,20,4,2,8,1,2,2 of 2 goals,0,,,Backpack,Consolation goodie,-16.6,-0.3164,4.48,6.56,Dropped off,Near miss
+user_298,2022-06-06,2022-09-12,Tamil Nadu,Male,Non-Tech,2022,105.09,130,8,50,8,42.41,57,8,37,5,2,8,1,2,2 of 2 goals,1,161,2022-11-06,Hamper,Target hamper,-62.68,-0.5964,5.3,13.14,Consistent high,Achiever
+user_299,2022-06-06,2022-09-12,Karnataka,Male,Non-Tech,2023,24.62,29,6,18,3,22.01,38,5,10,3,2,8,1,1,1 of 2 goals,0,,,Sweatshirt,Consolation goodie,-2.61,-0.106,2.75,3.08,Consistently low,Partial (2-3 goals)
+user_300,2022-06-06,2022-09-12,Telangana,Male,Non-Tech,2022,73.35,111,7,25,6,74.95,97,8,38,7,6,8,1,2,2 of 2 goals,1,70,2022-10-14,Hamper,Target hamper,1.6,0.0218,9.37,9.17,Consistent high,Achiever
+user_301,2022-06-06,2022-09-12,Karnataka,Male,Tech,2022,77.77,119,8,40,6,52.65,65,7,34,5,4,8,1,2,2 of 2 goals,1,132,2022-10-21,Hamper,Target hamper,-25.12,-0.323,6.58,9.72,Consistent high,Achiever
+user_302,2022-06-06,2022-09-12,Andhra Pradesh,Male,Non-Tech,2022,18.52,26,6,12,3,44.06,69,5,16,5,2,8,1,2,2 of 2 goals,1,155,2022-11-01,Hamper,Target hamper,25.54,1.3795,5.51,2.31,Activated,Achiever
+user_303,2022-06-06,2022-09-12,Tamil Nadu,Female,Tech,2023,35.15,41,7,26,4,8.3,10,3,5,0,0,8,1,0,0 of 2 goals,0,,,No reward,None,-26.85,-0.7639,1.04,4.39,Consistently low,Low (0-1 goal)
+user_304,2022-06-06,2022-09-12,Andhra Pradesh,Male,Non-Tech,2023,31.52,39,4,22,4,33.18,45,7,30,3,3,8,1,0,0 of 2 goals,0,,,Sweatshirt,Consolation goodie,1.66,0.0527,4.15,3.94,Consistently low,Partial (2-3 goals)
+user_305,2022-06-06,2022-09-12,Telangana,Male,Non-Tech,2023,52.86,69,8,40,7,77.55,95,7,35,7,4,8,1,2,2 of 2 goals,1,62,2022-10-20,Hamper,Target hamper,24.69,0.467,9.69,6.61,Consistent high,Achiever
+user_306,2022-06-06,2022-09-12,Tamil Nadu,Female,Tech,2023,61.53,78,8,37,7,92.24,116,7,38,7,4,8,1,2,2 of 2 goals,1,30,2022-10-22,Hamper,Target hamper,30.71,0.4991,11.53,7.69,Consistent high,Achiever
+user_307,2022-06-06,2022-09-12,Andhra Pradesh,Male,Tech,2023,76.86,104,7,37,5,72.18,98,8,41,6,3,8,1,2,2 of 2 goals,1,77,2022-10-19,Hamper,Target hamper,-4.68,-0.0609,9.02,9.61,Consistent high,Achiever
+user_308,2022-06-06,2022-09-12,Karnataka,Female,Non-Tech,2022,45.13,65,8,36,5,13.83,23,6,16,2,2,6,0,2,2 of 2 goals,0,,,T-shirt,Consolation goodie,-31.29,-0.6935,1.73,5.64,Dropped off,Partial (2-3 goals)
+user_309,2022-06-06,2022-09-12,Andhra Pradesh,Female,Tech,2023,73.86,102,8,44,7,153.53,177,8,44,8,8,8,1,2,2 of 2 goals,1,3,2022-10-14,Smart Watch + Hamper,Top 3 prize,79.67,1.0787,19.19,9.23,Consistent high,Achiever
+user_310,2022-06-06,2022-09-12,Andhra Pradesh,Female,Non-Tech,2023,21.53,26,5,11,2,71.93,91,7,25,4,4,8,1,0,0 of 2 goals,0,,,Backpack,Consolation goodie,50.4,2.3404,8.99,2.69,Activated,Near miss
+user_311,2022-06-06,2022-09-12,Karnataka,Male,Non-Tech,2022,37.87,44,8,33,5,15.61,27,8,24,1,1,8,1,1,1 of 2 goals,0,,,Water Bottle,Consolation goodie,-22.26,-0.5877,1.95,4.73,Consistently low,Low (0-1 goal)
+user_312,2022-06-06,2022-09-12,Tamil Nadu,Male,Tech,2023,82.66,107,7,34,6,45.89,54,8,36,4,3,8,1,1,1 of 2 goals,0,,,Backpack,Consolation goodie,-36.77,-0.4448,5.74,10.33,Consistent high,Near miss
+user_313,2022-06-06,2022-09-12,Karnataka,Female,Tech,2022,0.12,1,1,1,0,3.99,4,2,6,0,0,2,0,0,0 of 2 goals,0,,,No reward,None,3.87,30.96,0.5,0.02,Consistently low,Low (0-1 goal)
+user_314,2022-06-06,2022-09-12,Kerala,Female,Tech,2023,33.85,52,8,31,3,47.05,56,7,34,5,3,8,1,2,2 of 2 goals,1,150,2022-11-01,Hamper,Target hamper,13.21,0.3903,5.88,4.23,Activated,Achiever
+user_315,2022-06-06,2022-09-12,Kerala,Male,Non-Tech,2023,39.5,48,8,36,5,41.33,50,8,40,6,5,8,1,1,1 of 2 goals,1,163,2022-10-23,Hamper,Target hamper,1.83,0.0462,5.17,4.94,Consistent high,Achiever
+user_316,2022-06-06,2022-09-12,Andhra Pradesh,Male,Non-Tech,2022,0.0,0,0,0,0,0.0,0,0,0,0,0,,0,0,0 of 2 goals,0,,,No reward,None,0.0,,0.0,0.0,Consistently low,Low (0-1 goal)
+user_317,2022-06-06,2022-09-12,Karnataka,Female,Tech,2023,94.72,114,8,39,7,79.66,100,8,24,5,5,8,1,0,0 of 2 goals,1,51,2022-10-29,Hamper,Target hamper,-15.07,-0.1591,9.96,11.84,Consistent high,Achiever
+user_318,2022-06-06,2022-09-12,Andhra Pradesh,Female,Tech,2022,69.23,87,6,30,4,100.1,132,8,42,8,8,8,1,2,2 of 2 goals,1,25,2022-10-10,Hamper,Target hamper,30.87,0.446,12.51,8.65,Consistent high,Achiever
+user_319,2022-06-06,2022-09-12,Andhra Pradesh,Male,Non-Tech,2022,27.24,35,6,23,4,27.6,38,6,27,3,2,8,1,2,2 of 2 goals,0,,,Sweatshirt,Consolation goodie,0.37,0.0135,3.45,3.4,Consistently low,Partial (2-3 goals)
+user_320,2022-06-06,2022-09-12,Tamil Nadu,Male,Non-Tech,2023,41.0,62,6,23,4,63.33,86,8,36,6,6,8,1,2,2 of 2 goals,1,100,2022-10-13,Hamper,Target hamper,22.33,0.5447,7.92,5.12,Consistent high,Achiever
+user_321,2022-06-06,2022-09-12,Telangana,Female,Tech,2022,75.98,116,8,37,4,67.51,84,8,33,5,2,8,1,1,1 of 2 goals,1,87,2022-11-02,Hamper,Target hamper,-8.47,-0.1114,8.44,9.5,Consistent high,Achiever
+user_322,2022-06-06,2022-09-12,Kerala,Female,Non-Tech,2022,2.26,2,5,6,0,21.16,39,6,19,3,2,8,1,1,1 of 2 goals,0,,,Sweatshirt,Consolation goodie,18.9,8.3683,2.64,0.28,Consistently low,Partial (2-3 goals)
+user_323,2022-06-06,2022-09-12,Tamil Nadu,Male,Tech,2022,77.83,103,8,32,8,83.55,91,8,41,8,8,8,1,2,2 of 2 goals,1,45,2022-10-12,Hamper,Target hamper,5.72,0.0735,10.44,9.73,Consistent high,Achiever
+user_324,2022-06-06,2022-09-12,Tamil Nadu,Male,Tech,2022,45.54,79,8,36,4,28.21,46,7,31,4,2,8,1,1,1 of 2 goals,0,,,Backpack,Consolation goodie,-17.32,-0.3804,3.53,5.69,Dropped off,Near miss
+user_325,2022-06-06,2022-09-12,Tamil Nadu,Female,Non-Tech,2023,22.82,23,7,12,1,70.24,94,8,35,8,8,8,1,2,2 of 2 goals,1,82,2022-10-16,Hamper,Target hamper,47.42,2.0784,8.78,2.85,Activated,Achiever
+user_326,2022-06-13,2022-09-12,Andhra Pradesh,Male,Tech,2023,27.26,34,8,21,2,67.54,93,8,42,8,8,8,1,2,2 of 2 goals,1,86,2022-10-13,Hamper,Target hamper,40.28,1.4779,8.44,3.41,Activated,Achiever
+user_327,2022-06-13,2022-09-12,Karnataka,Female,Tech,2022,17.34,17,3,16,2,17.99,35,5,19,3,1,5,0,1,1 of 2 goals,0,,,Sweatshirt,Consolation goodie,0.65,0.0374,2.25,2.17,Consistently low,Partial (2-3 goals)
+user_328,2022-06-13,2022-09-12,Tamil Nadu,Female,Non-Tech,2023,22.79,37,5,17,2,8.48,8,2,5,0,0,2,0,0,0 of 2 goals,0,,,No reward,None,-14.31,-0.6278,1.06,2.85,Consistently low,Low (0-1 goal)
+user_329,2022-06-06,2022-09-12,Tamil Nadu,Female,Non-Tech,2022,9.26,13,2,3,1,17.18,27,6,10,2,2,6,0,0,0 of 2 goals,0,,,T-shirt,Consolation goodie,7.93,0.856,2.15,1.16,Consistently low,Partial (2-3 goals)
+user_330,2022-06-13,2022-09-12,Telangana,Female,Non-Tech,2023,40.49,56,5,18,3,87.65,115,7,33,5,3,8,1,2,2 of 2 goals,1,38,2022-11-02,Hamper,Target hamper,47.16,1.1646,10.96,5.06,Consistent high,Achiever

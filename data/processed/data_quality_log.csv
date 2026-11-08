@@ -1,0 +1,5 @@
+raw_rows,issue,detail,rows_affected,users_affected,action
+56300,Bulk system completion,"8 lessons (lesson_1303, lesson_1304, lesson_1305, lesson_1306, lesson_1307, lesson_1308, lesson_1311, lesson_1314) marked 100% for every user on 26/27-Oct-2022, mostly within the same second; 4.27 hrs per user",2640,330,Rows removed
+56300,Impossible learning hours,> 24 hrs of learning credited in one calendar day,1687,4,Users excluded from analysis and rewards (send for manual review)
+56300,Completion above 100%,"overall_completion_percentage = 120 (user_256, lesson_1330)",1,1,Capped at 100
+56300,Date parsing in xlsx,challenge_start_date read as 2022-12-09 and batch_week mixed text/dates,330,330,Used the CSV copy of users_basic_details
